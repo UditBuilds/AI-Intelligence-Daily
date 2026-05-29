@@ -1,0 +1,46 @@
+name: AI Intelligence Daily
+
+on:
+  repository_dispatch:
+    types: [ai_daily]
+  workflow_dispatch:
+
+concurrency:
+  group: ai-daily
+  cancel-in-progress: false
+
+jobs:
+  run-ai-daily:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore sent_stories.json
+        run: |
+          git fetch origin main
+          git checkout origin/main -- sent_stories.json 2>/dev/null || echo '{"sent":[]}' > sent_stories.json
+
+      - name: Run AI Daily
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py --run-now
+
+      - name: Persist sent_stories.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sent_stories.json
+          git diff --staged --quiet || git commit -m "chore: update sent_stories [skip ci]"
+          git push || true
