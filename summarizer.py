@@ -10,6 +10,73 @@ logger = logging.getLogger(__name__)
 
 # Story headlines in the brief are wrapped in **bold**.
 _HEADLINE_RE = re.compile(r"\*\*(.+?)\*\*", re.DOTALL)
+_TRENDING_RE = re.compile(r"(🔍\s*Trending Topics:)\s*(.*)", re.IGNORECASE | re.DOTALL)
+
+# Generic words that must never appear in Trending Topics.
+_GENERIC_TRENDING = {
+    "analysis", "reports", "report", "data", "research", "trends", "updates",
+    "update", "insights", "perspectives", "recommendations", "statistics",
+    "graphs", "charts", "tables", "studies", "findings", "results",
+    "conclusions", "suggestions", "ideas", "opinions", "views", "editorials",
+    "articles", "columns", "blogs", "news", "story", "stories",
+}
+_MAX_TRENDING = 7
+
+
+def _sanitize_trending(digest: str) -> str:
+    """Replace a possibly-runaway Trending Topics line with a clean, deduped,
+    capped one. Guards against the model's repetition-loop hallucination."""
+    m = _TRENDING_RE.search(digest)
+    if not m:
+        return digest
+
+    raw = m.group(2)
+    seen = set()
+    clean = []
+    for token in raw.split("·"):
+        t = token.strip().strip("*").strip()
+        if not t or len(t) > 40:
+            continue
+        key = t.lower()
+        if key in _GENERIC_TRENDING or key in seen:
+            continue
+        seen.add(key)
+        clean.append(t)
+        if len(clean) >= _MAX_TRENDING:
+            break
+
+    new_line = f"{m.group(1)} " + " · ".join(clean)
+    # Trending Topics is the last line; drop anything the model ran on after it.
+    return digest[:m.start()] + new_line
+
+
+# Deterministic filler scrub. Longer patterns first so e.g. "will likely be"
+# is removed whole before "will likely" can match a fragment. (pattern, repl).
+_FILLER_SUBS = [
+    (r"will likely be ", ""),
+    (r"will likely ", ""),
+    (r"is likely to ", ""),
+    (r"are likely to ", ""),
+    (r"in the coming months", ""),
+    (r"in the coming weeks", ""),
+    (r"in the coming days", ""),
+    (r"is expected to ", ""),
+    (r"are expected to ", ""),
+    (r"aiming to ", ""),
+    (r"with a focus on ", ""),
+    (r"in order to ", "to "),
+]
+
+
+def _scrub_filler(digest: str) -> str:
+    """Delete/replace the most common filler phrases, then tidy whitespace."""
+    for pattern, repl in _FILLER_SUBS:
+        digest = re.sub(pattern, repl, digest, flags=re.IGNORECASE)
+    # Tidy artifacts left by deletions: collapse runs of spaces and remove
+    # spaces left before sentence punctuation.
+    digest = re.sub(r"[ \t]{2,}", " ", digest)
+    digest = re.sub(r" +([.,;:])", r"\1", digest)
+    return digest
 
 
 def _clean_headline(text: str) -> str:
@@ -66,6 +133,12 @@ def summarize(grouped):
     )
     logger.info("Groq 200 — model %s responded.", GROQ_MODEL)
     brief = resp.choices[0].message.content.strip()
+
+    # Deterministic guard against the Trending Topics repetition hallucination.
+    brief = _sanitize_trending(brief)
+
+    # Strip the most common filler phrases the model still emits.
+    brief = _scrub_filler(brief)
 
     # Record headlines so tomorrow's brief can skip these stories.
     add_headlines(_extract_headlines(brief))
