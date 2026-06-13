@@ -65,6 +65,14 @@ _FILLER_SUBS = [
     (r"aiming to ", ""),
     (r"with a focus on ", ""),
     (r"in order to ", "to "),
+    (r"highlights the ", ""),
+    (r"may impact ", ""),
+    (r"potentially leading to ", ""),
+    (r"could impact ", ""),
+    # Specific before generic: rewrite "Indian companies like" to "Indian
+    # companies" before the bare "companies like" deletion can strip it.
+    (r"Indian companies like ", "Indian companies "),
+    (r"companies like ", ""),
 ]
 
 
@@ -77,6 +85,32 @@ def _scrub_filler(digest: str) -> str:
     digest = re.sub(r"[ \t]{2,}", " ", digest)
     digest = re.sub(r" +([.,;:])", r"\1", digest)
     return digest
+
+
+# The model keeps hedging the AI-BUSINESS India angle ('may impact', 'could
+# affect Indian companies like ...') instead of naming a specific company or
+# saying nothing. These words/phrases mark a non-specific, speculative angle.
+_INDIA_SEG_RE = re.compile(r"India:\s*(.*)$", re.IGNORECASE)
+_INDIA_SPECULATION_RE = re.compile(
+    r"\b(?:may|could|potentially|might)\b|companies like", re.IGNORECASE
+)
+
+
+def _fix_india_angle(brief: str) -> str:
+    """Force speculative India angles to the firm 'No direct India impact.'
+
+    Scans each line's ``India:`` segment (it sits inline after the signal
+    sentence in this brief's format) and, if it hedges with speculation words,
+    replaces everything from ``India:`` onward with the fallback line.
+    """
+    out = []
+    for line in brief.splitlines():
+        m = _INDIA_SEG_RE.search(line)
+        if m and _INDIA_SPECULATION_RE.search(m.group(1)):
+            prefix = line[:m.start()].rstrip()
+            line = (prefix + " " if prefix else "") + "India: No direct India impact."
+        out.append(line)
+    return "\n".join(out)
 
 
 def _clean_headline(text: str) -> str:
@@ -136,6 +170,12 @@ def summarize(grouped):
 
     # Deterministic guard against the Trending Topics repetition hallucination.
     brief = _sanitize_trending(brief)
+
+    # Force any speculative India angle to the firm fallback line FIRST — the
+    # filler scrub below deletes "may impact"/"could impact", which would
+    # otherwise strip the speculation markers this guard keys on and let a
+    # mangled India line slip through.
+    brief = _fix_india_angle(brief)
 
     # Strip the most common filler phrases the model still emits.
     brief = _scrub_filler(brief)
