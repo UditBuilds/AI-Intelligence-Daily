@@ -59,6 +59,7 @@ def build_and_send():
     divider = "━" * 20
     message = (
         f"🤖 **AI INTELLIGENCE DAILY** — {date_str}\n"
+        f"Weight: 🔴 major · 🟡 notable · 🔵 minor | Difficulty: [🟢/🟡/🔴]\n"
         f"{divider}\n"
         f"{body}"
     )
