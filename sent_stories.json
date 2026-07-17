@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Branda by MIT",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
-      "headline": "Agentcard for companies",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
-      "headline": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
-      "headline": "Branda",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
-      "headline": "Agentcard",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
-      "headline": "OpenAI",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
-      "headline": "Spotify",
-      "sent_at": "2026-07-15T01:04:39.760211+00:00"
-    },
-    {
       "headline": "GPT-Red by OpenAI",
       "sent_at": "2026-07-16T01:02:12.329253+00:00"
     },
@@ -59,6 +31,38 @@
     {
       "headline": "Saudi AI startup Think raises $8 million to drive GCC expansion",
       "sent_at": "2026-07-16T01:02:12.329253+00:00"
+    },
+    {
+      "headline": "OpenAI's Codex Keyboard",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "Gemini Omni and Personal Avatars in Google Vids",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "NVIDIA Nemotron 3 Embed",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "Interventional Grounding Audits",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "Ventorah",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "1Password for Claude",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "SwitchOn raises $8M",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "Coram AI raises $35M",
+      "sent_at": "2026-07-17T01:01:56.968681+00:00"
     }
   ]
 }
