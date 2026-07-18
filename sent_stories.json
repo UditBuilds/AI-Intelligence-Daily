@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-Red by OpenAI",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "OpenAI's Keypad for Codex",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "Tiptap AI Toolkit",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "CARE-LoRA: Compressed Activation REconstruction for Memory-Efficient LoRA",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "Tiptap AI Toolkit",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "nudge2.0",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "Indian AI Startup Emergent becomes unicorn after raising $130 million at $1.5 billion valuation",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
-      "headline": "Saudi AI startup Think raises $8 million to drive GCC expansion",
-      "sent_at": "2026-07-16T01:02:12.329253+00:00"
-    },
-    {
       "headline": "OpenAI's Codex Keyboard",
       "sent_at": "2026-07-17T01:01:56.968681+00:00"
     },
@@ -63,6 +31,38 @@
     {
       "headline": "Coram AI raises $35M",
       "sent_at": "2026-07-17T01:01:56.968681+00:00"
+    },
+    {
+      "headline": "Kimi K3 by Kimi",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers by Hugging Face",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "TikTok's AI likeness detection tool by TikTok",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "Kimi K3",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "TikTok's AI likeness detection tool",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "Emergent becomes India's latest AI unicorn after $130 million funding",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+    },
+    {
+      "headline": "SwitchOn raises $8 million in pre-series B funding",
+      "sent_at": "2026-07-18T01:01:52.266997+00:00"
     }
   ]
 }
