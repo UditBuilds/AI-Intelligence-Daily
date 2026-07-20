@@ -1,64 +1,36 @@
 {
   "sent": [
     {
-      "headline": "Kimi K3 by Kimi",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Claude Fable 5 by Anthropic",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers by Hugging Face",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Qwen3.8 by Alibaba",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "TikTok's AI likeness detection tool by TikTok",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Gemini 3.5 Pro by Google",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Emergent AI's $1.5 billion valuation",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "Kimi K3",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Suno",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "TikTok's AI likeness detection tool",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Current AI",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "Emergent becomes India's latest AI unicorn after $130 million funding",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
+      "headline": "Coram AI's $35 million funding",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     },
     {
-      "headline": "SwitchOn raises $8 million in pre-series B funding",
-      "sent_at": "2026-07-18T01:01:52.266997+00:00"
-    },
-    {
-      "headline": "Grok 4.6 by xAI",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
-    },
-    {
-      "headline": "Kimi K3 by Moonshot AI",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
-    },
-    {
-      "headline": "Claude Fable 5 updates by Anthropic",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
-    },
-    {
-      "headline": "OpenAI's ChatGPT and Codex unified app",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
-    },
-    {
-      "headline": "Anthropic's Claude Fable 5",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
-    },
-    {
-      "headline": "India Startup Funding",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
-    },
-    {
-      "headline": "Ben Affleck's AI company acquisition",
-      "sent_at": "2026-07-19T01:01:46.627885+00:00"
+      "headline": "Flipkart-Backed NeuroPixel AI shutdown",
+      "sent_at": "2026-07-20T01:02:09.291417+00:00"
     }
   ]
 }
