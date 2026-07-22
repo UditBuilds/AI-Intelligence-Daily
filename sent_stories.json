@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Fable 5 by Anthropic",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Qwen3.8 by Alibaba",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Gemini 3.5 Pro by Google",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Emergent AI's $1.5 billion valuation",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Suno",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Current AI",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Coram AI's $35 million funding",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
-      "headline": "Flipkart-Backed NeuroPixel AI shutdown",
-      "sent_at": "2026-07-20T01:02:09.291417+00:00"
-    },
-    {
       "headline": "Cosmos 3 Edge by Hugging Face",
       "sent_at": "2026-07-21T01:01:47.956715+00:00"
     },
@@ -63,6 +31,34 @@
     {
       "headline": "CuspAI raises $450M",
       "sent_at": "2026-07-21T01:01:47.956715+00:00"
+    },
+    {
+      "headline": "ChatGPT for Small Businesses by OpenAI",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "Gemini 3.6 Flash by Google",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "Democratizing AI with Small Language Models",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "Substack's AI Detector",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "Buzz by Jack Dorsey",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "CuspAI Raises $450M",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "Flex Raises $70Mn",
+      "sent_at": "2026-07-22T01:01:45.194720+00:00"
     }
   ]
 }
