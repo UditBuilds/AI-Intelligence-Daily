@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Cosmos 3 Edge by Hugging Face",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "Inkling by Tinker",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "Qwen3.8 Max Preview by Alibaba",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "Inkling",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "Adobe’s Indigo camera app",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "Natural raises $30M",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
-      "headline": "CuspAI raises $450M",
-      "sent_at": "2026-07-21T01:01:47.956715+00:00"
-    },
-    {
       "headline": "ChatGPT for Small Businesses by OpenAI",
       "sent_at": "2026-07-22T01:01:45.194720+00:00"
     },
@@ -59,6 +27,38 @@
     {
       "headline": "Flex Raises $70Mn",
       "sent_at": "2026-07-22T01:01:45.194720+00:00"
+    },
+    {
+      "headline": "OpenAI Presence by OpenAI",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "Glow by Glow",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "Samsung Smart Glasses by Samsung",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "OpenAI Presence",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "Samsung Smart Glasses",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "AMD invests up to $5 billion in Anthropic",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
+    },
+    {
+      "headline": "Travis Kalanick’s robotics company raises $1.7B",
+      "sent_at": "2026-07-23T01:01:35.802697+00:00"
     }
   ]
 }
