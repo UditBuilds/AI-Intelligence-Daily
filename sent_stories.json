@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Health by OpenAI",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "GPT-Live's full duplex voice control by OpenAI",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "Claude voice mode by Anthropic",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "OpenCode Superapp",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "Basedash AI Kit",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "CARPL.ai raises $10M in Series A",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "NeuralKart raises seed funding",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
-      "headline": "Claude voice mode",
-      "sent_at": "2026-07-24T01:01:42.948673+00:00"
-    },
-    {
       "headline": "Claude Opus 5 by Anthropic",
       "sent_at": "2026-07-25T01:01:35.652189+00:00"
     },
@@ -59,6 +27,34 @@
     {
       "headline": "HCLTech",
       "sent_at": "2026-07-25T01:01:35.652189+00:00"
+    },
+    {
+      "headline": "Claude Opus 5 by Anthropic",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
+    },
+    {
+      "headline": "Gemini Spark by Google",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
+    },
+    {
+      "headline": "Health Bot by OpenAI",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
+    },
+    {
+      "headline": "OpenComputer",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
+    },
+    {
+      "headline": "Librarians' \"Avoiding AI\" workshops",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
+    },
+    {
+      "headline": "Wiffy raises $3 million",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
+    },
+    {
+      "headline": "Deccan AI Secures $25 Million",
+      "sent_at": "2026-07-26T01:01:30.026836+00:00"
     }
   ]
 }
