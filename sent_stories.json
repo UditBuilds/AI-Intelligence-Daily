@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Opus 5 by Anthropic",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Kimi K3 by Moonshot",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Microsoft's first cybersecurity model",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Transferable Latency Prediction for Fast LLM Screening on Heterogeneous Edge Devices",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Comms",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Nvidia Open Secure AI Alliance",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Nvidia to Invest $5 Billion in Ilya Sutskever’s AI Research Lab",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
-      "headline": "Cursor Targets $2 Billion Raise at $50 Billion Valuation",
-      "sent_at": "2026-07-28T01:01:45.744134+00:00"
-    },
-    {
       "headline": "Gemini API Managed Agents 3.6 by Google",
       "sent_at": "2026-07-29T01:01:44.912951+00:00"
     },
@@ -63,6 +31,38 @@
     {
       "headline": "HCLTech to lead Sarvam AI’s $300 million funding round",
       "sent_at": "2026-07-29T01:01:44.912951+00:00"
+    },
+    {
+      "headline": "GPT-5.6 by OpenAI",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "Epilude",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "ChatGPT for Academic Researchers by OpenAI",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "Do Models Fake Alignment Without Clear Consequences",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "Epilude",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "Microsoft Copilot",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "OpenAI",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+    },
+    {
+      "headline": "Freehand",
+      "sent_at": "2026-07-30T01:01:39.389326+00:00"
     }
   ]
 }
