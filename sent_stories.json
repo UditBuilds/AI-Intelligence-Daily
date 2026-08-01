@@ -1,64 +1,36 @@
 {
   "sent": [
     {
-      "headline": "GPT-5.6 by OpenAI",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "Astra by OpenAI",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "Epilude",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "Claude AI by Anthropic",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "ChatGPT for Academic Researchers by OpenAI",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "MiniMax H3",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "Do Models Fake Alignment Without Clear Consequences",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "Explainable AI",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "Epilude",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "MiniMax H3",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "Microsoft Copilot",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "Google Earth's AI image generation tool",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "OpenAI",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
+      "headline": "Flapping Airplanes AI Startup",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     },
     {
-      "headline": "Freehand",
-      "sent_at": "2026-07-30T01:01:39.389326+00:00"
-    },
-    {
-      "headline": "GPT-5.6 by OpenAI",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
-    },
-    {
-      "headline": "Gemini Robotics 2 by Google DeepMind",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
-    },
-    {
-      "headline": "GuideSkill: Evolving Executable LLM Agent Skills",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
-    },
-    {
-      "headline": "Pally",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
-    },
-    {
-      "headline": "Premation",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
-    },
-    {
-      "headline": "Nscale Acquires Anyscale",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
-    },
-    {
-      "headline": "Intropy Raises $11M",
-      "sent_at": "2026-07-31T01:01:33.604431+00:00"
+      "headline": "HisabKitab",
+      "sent_at": "2026-08-01T01:01:35.641678+00:00"
     }
   ]
 }
