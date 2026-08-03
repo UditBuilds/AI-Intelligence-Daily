@@ -2,38 +2,6 @@
   "sent": [
     {
       "headline": "Astra by OpenAI",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "Claude AI by Anthropic",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "MiniMax H3",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "Explainable AI",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "MiniMax H3",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "Google Earth's AI image generation tool",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "Flapping Airplanes AI Startup",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "HisabKitab",
-      "sent_at": "2026-08-01T01:01:35.641678+00:00"
-    },
-    {
-      "headline": "Astra by OpenAI",
       "sent_at": "2026-08-02T01:01:35.212148+00:00"
     },
     {
@@ -63,6 +31,26 @@
     {
       "headline": "Indian startup funding",
       "sent_at": "2026-08-02T01:01:35.212148+00:00"
+    },
+    {
+      "headline": "Astra by OpenAI",
+      "sent_at": "2026-08-03T01:01:32.902042+00:00"
+    },
+    {
+      "headline": "Gemini 3.5 Pro by Google",
+      "sent_at": "2026-08-03T01:01:32.902042+00:00"
+    },
+    {
+      "headline": "Cybersecurity breaches by AI models",
+      "sent_at": "2026-08-03T01:01:32.902042+00:00"
+    },
+    {
+      "headline": "Termexo",
+      "sent_at": "2026-08-03T01:01:32.902042+00:00"
+    },
+    {
+      "headline": "Israeli startups raised $1.5 billion in July",
+      "sent_at": "2026-08-03T01:01:32.902042+00:00"
     }
   ]
 }
