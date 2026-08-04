@@ -1,56 +1,36 @@
 {
   "sent": [
     {
-      "headline": "Astra by OpenAI",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "GPT-Live by OpenAI",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "Gemini 3.5 Pro by Google",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "Qwen3.8-Max by Alibaba",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "Gemini 4 by Google",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "OpenAI Astra model",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "Advances in mathematics and theoretical computer science",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "$9 NFC key",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "Qwen3.8-Max",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "Fenix Flexin's AI-powered music tool",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "MascotAI",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "OpenAI unveils Astra",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
+      "headline": "Zenity raises $125 million Series C",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     },
     {
-      "headline": "Indian startup funding",
-      "sent_at": "2026-08-02T01:01:35.212148+00:00"
-    },
-    {
-      "headline": "Astra by OpenAI",
-      "sent_at": "2026-08-03T01:01:32.902042+00:00"
-    },
-    {
-      "headline": "Gemini 3.5 Pro by Google",
-      "sent_at": "2026-08-03T01:01:32.902042+00:00"
-    },
-    {
-      "headline": "Cybersecurity breaches by AI models",
-      "sent_at": "2026-08-03T01:01:32.902042+00:00"
-    },
-    {
-      "headline": "Termexo",
-      "sent_at": "2026-08-03T01:01:32.902042+00:00"
-    },
-    {
-      "headline": "Israeli startups raised $1.5 billion in July",
-      "sent_at": "2026-08-03T01:01:32.902042+00:00"
+      "headline": "Groww Cofounders Plan ₹500 Crore Startup Fund",
+      "sent_at": "2026-08-04T01:01:38.840986+00:00"
     }
   ]
 }
