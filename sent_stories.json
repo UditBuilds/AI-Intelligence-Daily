@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-Live by OpenAI",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "Qwen3.8-Max by Alibaba",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "OpenAI Astra model",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "Qwen3.8-Max",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "MascotAI",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "Zenity raises $125 million Series C",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
-      "headline": "Groww Cofounders Plan ₹500 Crore Startup Fund",
-      "sent_at": "2026-08-04T01:01:38.840986+00:00"
-    },
-    {
       "headline": "Shieldstral by Mistral AI",
       "sent_at": "2026-08-05T01:01:33.787844+00:00"
     },
@@ -63,6 +31,38 @@
     {
       "headline": "Sarvam AI set to raise ₹700 crore in Nvidia-led funding round",
       "sent_at": "2026-08-05T01:01:33.787844+00:00"
+    },
+    {
+      "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "Anthropic to build in-house chip design team for Claude",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "ChatGPT 6 Release Date: OpenAI's Next Model Exists",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "Hansel",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "Treblo",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "Sapiom raises $35M to cut AI agent running costs",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+    },
+    {
+      "headline": "Hulp raises $2.6 million in seed funding to expand AI-led personal assistance platform",
+      "sent_at": "2026-08-06T01:01:33.666918+00:00"
     }
   ]
 }
