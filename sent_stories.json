@@ -1,68 +1,36 @@
 {
   "sent": [
     {
-      "headline": "Shieldstral by Mistral AI",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "GPT-5.6 Sol by OpenAI",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "LFM2.5-2.6B by Hugging Face",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "Shieldstral",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "Astra model by OpenAI",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "Muse Code",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "Enhancing LLMs with Context-Specific Knowledge",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "AMD’s data center business",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "Shieldstral",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "SpaceX’s AI revenue",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "Muse Code",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
+      "headline": "Acrab raises $130m in Vertex-backed Series B funding",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     },
     {
-      "headline": "Sarvam AI set to raise ₹700 crore in Nvidia-led funding round",
-      "sent_at": "2026-08-05T01:01:33.787844+00:00"
-    },
-    {
-      "headline": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "Anthropic to build in-house chip design team for Claude",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "ChatGPT 6 Release Date: OpenAI's Next Model Exists",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "Enhancing LLMs with Context-Specific Knowledge for Mitigating Misinformation in SMEs",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "Hansel",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "Treblo",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "Sapiom raises $35M to cut AI agent running costs",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
-    },
-    {
-      "headline": "Hulp raises $2.6 million in seed funding to expand AI-led personal assistance platform",
-      "sent_at": "2026-08-06T01:01:33.666918+00:00"
+      "headline": "Hadrian valued at nearly $8 billion after fresh funding",
+      "sent_at": "2026-08-07T01:01:39.474800+00:00"
     }
   ]
 }
