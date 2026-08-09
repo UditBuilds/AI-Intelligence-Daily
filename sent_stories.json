@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-5.6 Sol by OpenAI",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Shieldstral",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Muse Code",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Shieldstral",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Muse Code",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Acrab raises $130m in Vertex-backed Series B funding",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
-      "headline": "Hadrian valued at nearly $8 billion after fresh funding",
-      "sent_at": "2026-08-07T01:01:39.474800+00:00"
-    },
-    {
       "headline": "OpenAI Astra",
       "sent_at": "2026-08-08T01:01:39.229606+00:00"
     },
@@ -63,6 +31,38 @@
     {
       "headline": "DPIIT",
       "sent_at": "2026-08-08T01:01:39.229606+00:00"
+    },
+    {
+      "headline": "Mistral AI's Shieldstral 1.0 3B",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "xAI's Imagine Image 2.0",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "OpenAI's acquisition of NextSlide",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "Quantum math-solving models",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "Basedash Subscriptions",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "OpenAI's ChatGPT",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "Consint.AI raises Rs 22 crore in Series A funding",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+    },
+    {
+      "headline": "23 Indian startups raise over $252 billion in funding",
+      "sent_at": "2026-08-09T01:01:35.183645+00:00"
     }
   ]
 }
