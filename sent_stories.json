@@ -1,68 +1,16 @@
 {
   "sent": [
     {
-      "headline": "OpenAI Astra",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
+      "headline": "Claude Code by Anthropic",
+      "sent_at": "2026-08-10T01:04:12.893905+00:00"
     },
     {
-      "headline": "AgentOne Desktop",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
+      "headline": "Claude Code",
+      "sent_at": "2026-08-10T01:04:12.893905+00:00"
     },
     {
-      "headline": "Kitesurf",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
-    },
-    {
-      "headline": "Woodpecker Distillation",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
-    },
-    {
-      "headline": "AgentOne Desktop",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
-    },
-    {
-      "headline": "Kitesurf",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
-    },
-    {
-      "headline": "Harvey",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
-    },
-    {
-      "headline": "DPIIT",
-      "sent_at": "2026-08-08T01:01:39.229606+00:00"
-    },
-    {
-      "headline": "Mistral AI's Shieldstral 1.0 3B",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "xAI's Imagine Image 2.0",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "OpenAI's acquisition of NextSlide",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "Quantum math-solving models",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "Basedash Subscriptions",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "OpenAI's ChatGPT",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "Consint.AI raises Rs 22 crore in Series A funding",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
-    },
-    {
-      "headline": "23 Indian startups raise over $252 billion in funding",
-      "sent_at": "2026-08-09T01:01:35.183645+00:00"
+      "headline": "Situational Awareness invests $400M in Source Foundry",
+      "sent_at": "2026-08-10T01:04:12.893905+00:00"
     }
   ]
 }
