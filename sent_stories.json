@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "headline": "OpenAI releases Ultrafast mode for GPT-5.6 Sol",
-      "sent_at": "2026-08-15T01:01:19.621075+00:00"
-    },
-    {
-      "headline": "Basedash Tasks",
-      "sent_at": "2026-08-15T01:01:19.621075+00:00"
-    },
-    {
-      "headline": "Google Gemini",
-      "sent_at": "2026-08-15T01:01:19.621075+00:00"
-    },
-    {
       "headline": "Claude by Anthropic",
       "sent_at": "2026-08-16T01:01:18.644611+00:00"
     },
@@ -39,6 +27,34 @@
     {
       "headline": "Southeast Asia AI Startup Funding Hits $4.1bn In 2026",
       "sent_at": "2026-08-16T01:01:18.644611+00:00"
+    },
+    {
+      "headline": "Claude by Anthropic",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
+    },
+    {
+      "headline": "Grok 4.6 by xAI",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
+    },
+    {
+      "headline": "Claude Desktop by Anthropic",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
+    },
+    {
+      "headline": "ChatGPT's Computer History",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
+    },
+    {
+      "headline": "OpenRouter",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
+    },
+    {
+      "headline": "Anthropic acquisition of Decart",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
+    },
+    {
+      "headline": "Stripe acquisition of OpenRouter",
+      "sent_at": "2026-08-17T01:01:17.919027+00:00"
     }
   ]
 }
