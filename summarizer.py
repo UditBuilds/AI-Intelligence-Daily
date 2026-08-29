@@ -237,7 +237,7 @@ def _fix_watch_segment(brief: str) -> str:
 
 
 def _clean_headline(text: str) -> str:
-    return text.strip().lstrip("🚀🧠🛠💰💡🟢🟡🔴🔵 ").strip()
+    return text.strip().lstrip("🚀🧠🛠💰💡🟢🟡🔴•- ").strip()
 
 
 # Fallback headline shape when the model drops the **bold** markers: a story

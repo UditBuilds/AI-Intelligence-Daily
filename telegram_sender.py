@@ -38,10 +38,11 @@ def _chunks(text: str):
         text = text[cut:].lstrip()
 
 
-async def _send(message: str):
+async def _send(message: str, reply_markup=None):
     bot = Bot(token=TELEGRAM_BOT_TOKEN)
     html_message = _to_html(message)
     chunks = list(_chunks(html_message))
+    last = len(chunks) - 1
     for i, chunk in enumerate(chunks):
         try:
             await bot.send_message(
@@ -50,10 +51,13 @@ async def _send(message: str):
                 parse_mode=ParseMode.HTML,
                 # Allow preview on the first chunk only.
                 disable_web_page_preview=(i != 0),
+                # Buttons belong to the suggestions section, which is appended
+                # last and so always lands in the final chunk.
+                reply_markup=reply_markup if i == last else None,
             )
         except TelegramError as e:
             logger.error("Telegram send failed: %s", e)
 
 
-def send_message(message: str):
-    asyncio.run(_send(message))
+def send_message(message: str, reply_markup=None):
+    asyncio.run(_send(message, reply_markup))
