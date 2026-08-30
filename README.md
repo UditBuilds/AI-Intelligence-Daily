@@ -107,9 +107,7 @@ Then apply `sql/001_suggestions.sql` once against your Supabase project.
 
 ## Deployment
 
-Triggered via **`repository_dispatch`** from [cron-job.org](https://cron-job.org)
-at 01:00 UTC daily — the same pattern as the NewsBot. There is no native
-GitHub cron schedule. See the workflow at `.github/workflows/ai_daily.yml`.
+Triggered natively via GitHub Actions **`schedule`** at 06:00 IST (00:30 UTC daily) and via **`repository_dispatch`** from [cron-job.org](https://cron-job.org). See the workflow at `.github/workflows/ai_daily.yml`.
 
 The workflow restores `sent_stories.json` from `main`, runs the bot, and commits
 the updated dedup state back so stories aren't repeated day to day. Suggestion

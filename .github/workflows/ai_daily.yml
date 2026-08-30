@@ -1,6 +1,9 @@
 name: AI Intelligence Daily
 
 on:
+  schedule:
+    # 06:00 AM IST = 00:30 UTC
+    - cron: '30 0 * * *'
   repository_dispatch:
     types: [ai_daily]
   workflow_dispatch:
