@@ -1,96 +1,32 @@
 {
   "sent": [
     {
-      "headline": "Astra",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     },
     {
-      "headline": "ChatGPT Work",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
+      "headline": "Claude",
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     },
     {
-      "headline": "IBM Time‑Series Models",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
+      "headline": "Speculative Macro Commit for Faster Tool‑Using Agents",
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     },
     {
-      "headline": "Long‑Horizon State Tracking in LLMs",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
+      "headline": "Melody Flip",
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     },
     {
-      "headline": "Doop",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
-    },
-    {
-      "headline": "Amazon Alexa Verify",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
-    },
-    {
-      "headline": "Wonderful",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
-    },
-    {
-      "headline": "Creedom",
-      "sent_at": "2026-09-03T01:01:27.030393+00:00"
-    },
-    {
-      "headline": "ChatGPT Work",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "Astra",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "Gemini 3.8 Flash",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "The Hydration Proxy Pattern",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "Alexa Email‑Verification",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "Gemini 3.8 Flash API",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "Wonderful",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "Creedom",
-      "sent_at": "2026-09-03T04:54:16.633027+00:00"
-    },
-    {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
-    },
-    {
-      "headline": "NeoMME",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
-    },
-    {
-      "headline": "Hydration Proxy Pattern for Stateless LLM APIs",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
-    },
-    {
-      "headline": "Nex",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
-    },
-    {
-      "headline": "Personal AI Router (PAIR)",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
+      "headline": "Project Zenith",
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     },
     {
       "headline": "Crusoe",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     },
     {
-      "headline": "Cradlewise",
-      "sent_at": "2026-09-04T01:01:16.803575+00:00"
+      "headline": "Gimlet",
+      "sent_at": "2026-09-05T01:01:17.503711+00:00"
     }
   ]
 }
