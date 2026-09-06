@@ -27,6 +27,30 @@
     {
       "headline": "Gimlet",
       "sent_at": "2026-09-05T01:01:17.503711+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra",
+      "sent_at": "2026-09-06T01:01:14.997017+00:00"
+    },
+    {
+      "headline": "Claude Fable 5.1",
+      "sent_at": "2026-09-06T01:01:14.997017+00:00"
+    },
+    {
+      "headline": "Gemini 4 Pro",
+      "sent_at": "2026-09-06T01:01:14.997017+00:00"
+    },
+    {
+      "headline": "Do GUI Agents Know When Not to Act?",
+      "sent_at": "2026-09-06T01:01:14.997017+00:00"
+    },
+    {
+      "headline": "Creedom",
+      "sent_at": "2026-09-06T01:01:14.997017+00:00"
+    },
+    {
+      "headline": "Gimlet Labs",
+      "sent_at": "2026-09-06T01:01:14.997017+00:00"
     }
   ]
 }
