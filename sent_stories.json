@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-6 Astra",
-      "sent_at": "2026-09-08T05:04:02.173081+00:00"
-    },
-    {
-      "headline": "OpenAI API (GPT-6 Astra)",
-      "sent_at": "2026-09-08T05:04:02.173081+00:00"
-    },
-    {
-      "headline": "Navana.ai Voice Platform",
-      "sent_at": "2026-09-08T05:04:02.173081+00:00"
-    },
-    {
-      "headline": "Navana.ai",
-      "sent_at": "2026-09-08T05:04:02.173081+00:00"
-    },
-    {
-      "headline": "Fundly.ai",
-      "sent_at": "2026-09-08T05:04:02.173081+00:00"
-    },
-    {
       "headline": "ChatGPT Images 2.5",
       "sent_at": "2026-09-09T01:01:26.531158+00:00"
     },
@@ -63,6 +43,42 @@
     {
       "headline": "When Does Memory Help?",
       "sent_at": "2026-09-09T05:02:56.738685+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "Granite Time‑Series PatchTST‑FM‑r2",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "When Does Memory Help?",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "Type.com",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "Suno v6 Music",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "Cognition",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "Harvey",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "OpenAI GPT‑6 Astra API",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
+    },
+    {
+      "headline": "LangChain’s memory modules",
+      "sent_at": "2026-09-10T01:01:23.591978+00:00"
     }
   ]
 }
