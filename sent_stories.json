@@ -2,26 +2,6 @@
   "sent": [
     {
       "headline": "GPT‑6 Astra",
-      "sent_at": "2026-09-14T01:01:21.174746+00:00"
-    },
-    {
-      "headline": "OpenAI Agents API",
-      "sent_at": "2026-09-14T01:01:21.174746+00:00"
-    },
-    {
-      "headline": "Gemini for Windows",
-      "sent_at": "2026-09-14T01:01:21.174746+00:00"
-    },
-    {
-      "headline": "Discovery Loop",
-      "sent_at": "2026-09-14T01:01:21.174746+00:00"
-    },
-    {
-      "headline": "Indian Startup Funding Sep 7‑12",
-      "sent_at": "2026-09-14T01:01:21.174746+00:00"
-    },
-    {
-      "headline": "GPT‑6 Astra",
       "sent_at": "2026-09-14T05:20:41.267613+00:00"
     },
     {
@@ -43,6 +23,18 @@
     {
       "headline": "Google‑Mechanize acquisition",
       "sent_at": "2026-09-14T05:20:41.267613+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-15T05:11:31.043850+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-09-15T05:11:31.043850+00:00"
+    },
+    {
+      "headline": "Fyxer",
+      "sent_at": "2026-09-15T05:11:31.043850+00:00"
     }
   ]
 }
