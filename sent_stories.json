@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-09-14T05:20:41.267613+00:00"
-    },
-    {
-      "headline": "Gemini for Windows",
-      "sent_at": "2026-09-14T05:20:41.267613+00:00"
-    },
-    {
-      "headline": "Occamy‑1.0 (35 B)",
-      "sent_at": "2026-09-14T05:20:41.267613+00:00"
-    },
-    {
-      "headline": "OpenAI Agents API",
-      "sent_at": "2026-09-14T05:20:41.267613+00:00"
-    },
-    {
-      "headline": "Indian startup funding wave",
-      "sent_at": "2026-09-14T05:20:41.267613+00:00"
-    },
-    {
-      "headline": "Google‑Mechanize acquisition",
-      "sent_at": "2026-09-14T05:20:41.267613+00:00"
-    },
-    {
       "headline": "GPT‑6 Astra",
       "sent_at": "2026-09-15T05:11:31.043850+00:00"
     },
@@ -35,6 +11,38 @@
     {
       "headline": "Fyxer",
       "sent_at": "2026-09-15T05:11:31.043850+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "Claude AI Finance",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "Claude AI for Advisors",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "ZGCM‑1 (7B dense model)",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "Meta One AI Bundle",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "WhatsApp Business MCP Server",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "Flam",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
+    },
+    {
+      "headline": "Factory",
+      "sent_at": "2026-09-16T01:01:22.055407+00:00"
     }
   ]
 }
