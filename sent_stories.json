@@ -1,26 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Grok Voice Transcribe 2.0",
-      "sent_at": "2026-09-20T01:01:20.315517+00:00"
-    },
-    {
-      "headline": "Claude Code",
-      "sent_at": "2026-09-20T01:01:20.315517+00:00"
-    },
-    {
-      "headline": "Mise",
-      "sent_at": "2026-09-20T01:01:20.315517+00:00"
-    },
-    {
-      "headline": "Meta Muse",
-      "sent_at": "2026-09-20T01:01:20.315517+00:00"
-    },
-    {
-      "headline": "Anthropic",
-      "sent_at": "2026-09-20T01:01:20.315517+00:00"
-    },
-    {
       "headline": "Gemini Spark",
       "sent_at": "2026-09-20T05:16:11.356021+00:00"
     },
@@ -51,6 +31,30 @@
     {
       "headline": "Google Gemini",
       "sent_at": "2026-09-20T05:16:11.356021+00:00"
+    },
+    {
+      "headline": "Astra",
+      "sent_at": "2026-09-21T01:01:20.706598+00:00"
+    },
+    {
+      "headline": "Gemini 4",
+      "sent_at": "2026-09-21T01:01:20.706598+00:00"
+    },
+    {
+      "headline": "Missionforce",
+      "sent_at": "2026-09-21T01:01:20.706598+00:00"
+    },
+    {
+      "headline": "Vocci Ring",
+      "sent_at": "2026-09-21T01:01:20.706598+00:00"
+    },
+    {
+      "headline": "ScrollEd",
+      "sent_at": "2026-09-21T01:01:20.706598+00:00"
+    },
+    {
+      "headline": "Naive AI",
+      "sent_at": "2026-09-21T01:01:20.706598+00:00"
     }
   ]
 }
