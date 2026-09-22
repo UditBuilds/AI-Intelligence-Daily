@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Astra",
-      "sent_at": "2026-09-21T01:01:20.706598+00:00"
-    },
-    {
-      "headline": "Gemini 4",
-      "sent_at": "2026-09-21T01:01:20.706598+00:00"
-    },
-    {
-      "headline": "Missionforce",
-      "sent_at": "2026-09-21T01:01:20.706598+00:00"
-    },
-    {
-      "headline": "Vocci Ring",
-      "sent_at": "2026-09-21T01:01:20.706598+00:00"
-    },
-    {
-      "headline": "ScrollEd",
-      "sent_at": "2026-09-21T01:01:20.706598+00:00"
-    },
-    {
-      "headline": "Naive AI",
-      "sent_at": "2026-09-21T01:01:20.706598+00:00"
-    },
-    {
       "headline": "Claude",
       "sent_at": "2026-09-21T05:19:20.177543+00:00"
     },
@@ -39,6 +15,26 @@
     {
       "headline": "Naive AI",
       "sent_at": "2026-09-21T05:19:20.177543+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-22T01:01:26.698889+00:00"
+    },
+    {
+      "headline": "RBS‑Attention",
+      "sent_at": "2026-09-22T01:01:26.698889+00:00"
+    },
+    {
+      "headline": "Jev",
+      "sent_at": "2026-09-22T01:01:26.698889+00:00"
+    },
+    {
+      "headline": "Indian Startup Funding Surge",
+      "sent_at": "2026-09-22T01:01:26.698889+00:00"
+    },
+    {
+      "headline": "Treble",
+      "sent_at": "2026-09-22T01:01:26.698889+00:00"
     }
   ]
 }
