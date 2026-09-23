@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude",
-      "sent_at": "2026-09-21T05:19:20.177543+00:00"
-    },
-    {
-      "headline": "Astra",
-      "sent_at": "2026-09-21T05:19:20.177543+00:00"
-    },
-    {
-      "headline": "Gemini 4",
-      "sent_at": "2026-09-21T05:19:20.177543+00:00"
-    },
-    {
-      "headline": "Naive AI",
-      "sent_at": "2026-09-21T05:19:20.177543+00:00"
-    },
-    {
       "headline": "GPT‑6 Astra",
       "sent_at": "2026-09-22T01:01:26.698889+00:00"
     },
@@ -63,6 +47,42 @@
     {
       "headline": "Cornelis Networks",
       "sent_at": "2026-09-22T05:17:28.872836+00:00"
+    },
+    {
+      "headline": "GPT‑6 Sol",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "GPT‑6 Luna",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "RBS‑Attention",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "MiMo‑V2.6",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "Rabbit OS3 AI Agent",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "Sol",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "Demoverse",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
+    },
+    {
+      "headline": "OpenAI GPT‑6 Sol API",
+      "sent_at": "2026-09-23T01:01:22.003825+00:00"
     }
   ]
 }
