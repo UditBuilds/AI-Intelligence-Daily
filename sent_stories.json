@@ -1,70 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "OpenAI Academy – New Learning Paths",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "RBS‑Attention: Radius‑Bounded Sparse Prefill",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "Curvestone AI",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "Higgsfield AI Video Builder",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "Treble",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "Cornelis Networks",
-      "sent_at": "2026-09-22T05:17:28.872836+00:00"
-    },
-    {
-      "headline": "GPT‑6 Sol",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "GPT‑6 Luna",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "RBS‑Attention",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "MiMo‑V2.6",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "Rabbit OS3 AI Agent",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "Sol",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "Demoverse",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
-      "headline": "OpenAI GPT‑6 Sol API",
-      "sent_at": "2026-09-23T01:01:22.003825+00:00"
-    },
-    {
       "headline": "GPT‑6 Sol",
       "sent_at": "2026-09-23T05:02:30.553793+00:00"
     },
@@ -95,6 +31,18 @@
     {
       "headline": "Demoverse",
       "sent_at": "2026-09-23T05:02:30.553793+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra",
+      "sent_at": "2026-09-24T01:01:25.207526+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra",
+      "sent_at": "2026-09-24T01:01:25.207526+00:00"
+    },
+    {
+      "headline": "GPT-5.6",
+      "sent_at": "2026-09-24T01:01:25.207526+00:00"
     }
   ]
 }
