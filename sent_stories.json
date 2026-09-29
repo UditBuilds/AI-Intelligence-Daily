@@ -2,30 +2,6 @@
   "sent": [
     {
       "headline": "Claude Sonnet 5.5",
-      "sent_at": "2026-09-28T01:01:25.107892+00:00"
-    },
-    {
-      "headline": "Claude Marketplace",
-      "sent_at": "2026-09-28T01:01:25.107892+00:00"
-    },
-    {
-      "headline": "Gemini 4",
-      "sent_at": "2026-09-28T01:01:25.107892+00:00"
-    },
-    {
-      "headline": "Engram",
-      "sent_at": "2026-09-28T01:01:25.107892+00:00"
-    },
-    {
-      "headline": "Indian AI Funding Round",
-      "sent_at": "2026-09-28T01:01:25.107892+00:00"
-    },
-    {
-      "headline": "ByteAsk",
-      "sent_at": "2026-09-28T01:01:25.107892+00:00"
-    },
-    {
-      "headline": "Claude Sonnet 5.5",
       "sent_at": "2026-09-28T05:44:47.783787+00:00"
     },
     {
@@ -55,6 +31,34 @@
     {
       "headline": "ByteAsk",
       "sent_at": "2026-09-28T05:44:47.783787+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Astra",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "Holo4",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "ScopeBench",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "Modulate",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "Warp",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "Instinct",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "SiMa.ai",
+      "sent_at": "2026-09-29T01:02:03.365449+00:00"
     }
   ]
 }
