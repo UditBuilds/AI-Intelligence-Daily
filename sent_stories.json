@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6.1 Astra",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
-      "headline": "Holo4",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
-      "headline": "ScopeBench",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
-      "headline": "Modulate",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
-      "headline": "Warp",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
-      "headline": "Instinct",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
-      "headline": "SiMa.ai",
-      "sent_at": "2026-09-29T01:02:03.365449+00:00"
-    },
-    {
       "headline": "GPT‑6.1 Sol",
       "sent_at": "2026-09-30T01:01:25.350355+00:00"
     },
@@ -55,6 +27,30 @@
     {
       "headline": "Reco",
       "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Sol",
+      "sent_at": "2026-09-30T05:51:26.362132+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-09-30T05:51:26.362132+00:00"
+    },
+    {
+      "headline": "Kumo Tabular",
+      "sent_at": "2026-09-30T05:51:26.362132+00:00"
+    },
+    {
+      "headline": "Neurosymbolic Routing for Reliable Reasoning on Resource‑Constrained Edge Devices",
+      "sent_at": "2026-09-30T05:51:26.362132+00:00"
+    },
+    {
+      "headline": "Dots",
+      "sent_at": "2026-09-30T05:51:26.362132+00:00"
+    },
+    {
+      "headline": "Kumo Tabular",
+      "sent_at": "2026-09-30T05:51:26.362132+00:00"
     }
   ]
 }
