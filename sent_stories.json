@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Sonnet 5.5",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "Claude Marketplace",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "Claude API Refusal Billing",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "ScopeBench: Agent Engagement Boundaries",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "Engram",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "Claude Marketplace",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "India‑wide Funding Surge",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
-      "headline": "ByteAsk",
-      "sent_at": "2026-09-28T05:44:47.783787+00:00"
-    },
-    {
       "headline": "GPT‑6.1 Astra",
       "sent_at": "2026-09-29T01:02:03.365449+00:00"
     },
@@ -59,6 +27,34 @@
     {
       "headline": "SiMa.ai",
       "sent_at": "2026-09-29T01:02:03.365449+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Sol",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "Kumo Tabular",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "Source‑Aware Verification",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "Working with AI",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "Supertake",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "SiMa.ai",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
+    },
+    {
+      "headline": "Reco",
+      "sent_at": "2026-09-30T01:01:25.350355+00:00"
     }
   ]
 }
