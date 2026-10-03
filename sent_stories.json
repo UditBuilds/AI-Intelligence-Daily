@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "dots",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "Astra",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "Gemini 4 Argon",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "MoFlow: Multi‑Objective Agentic Workflow Generation",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "Grokipedia",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "Instagram AI Edits",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "Outmarket",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
-      "headline": "Unveilr AI",
-      "sent_at": "2026-10-01T06:24:43.074716+00:00"
-    },
-    {
       "headline": "ChatGPT Enterprise",
       "sent_at": "2026-10-02T01:01:31.743849+00:00"
     },
@@ -95,6 +63,30 @@
     {
       "headline": "Indian AI & EV Startups",
       "sent_at": "2026-10-02T06:02:49.766013+00:00"
+    },
+    {
+      "headline": "GPT-6",
+      "sent_at": "2026-10-03T01:01:25.568948+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-10-03T01:01:25.568948+00:00"
+    },
+    {
+      "headline": "Earlyn",
+      "sent_at": "2026-10-03T01:01:25.568948+00:00"
+    },
+    {
+      "headline": "Codync",
+      "sent_at": "2026-10-03T01:01:25.568948+00:00"
+    },
+    {
+      "headline": "FieldAI",
+      "sent_at": "2026-10-03T01:01:25.568948+00:00"
+    },
+    {
+      "headline": "Gwanak Lab",
+      "sent_at": "2026-10-03T01:01:25.568948+00:00"
     }
   ]
 }
