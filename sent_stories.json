@@ -1,62 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Enterprise",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "AutoSynthData",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "Claude Code",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "Gradient‑Aligned Pair Selection for Personalized Preference Optimization",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "Gemini Live Guided Vision",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "ChatGPT Virtual Try‑On",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "Armadin",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "Indian AI & EV Startups",
-      "sent_at": "2026-10-02T06:02:49.766013+00:00"
-    },
-    {
-      "headline": "GPT-6",
-      "sent_at": "2026-10-03T01:01:25.568948+00:00"
-    },
-    {
-      "headline": "Claude",
-      "sent_at": "2026-10-03T01:01:25.568948+00:00"
-    },
-    {
-      "headline": "Earlyn",
-      "sent_at": "2026-10-03T01:01:25.568948+00:00"
-    },
-    {
-      "headline": "Codync",
-      "sent_at": "2026-10-03T01:01:25.568948+00:00"
-    },
-    {
-      "headline": "FieldAI",
-      "sent_at": "2026-10-03T01:01:25.568948+00:00"
-    },
-    {
-      "headline": "Gwanak Lab",
-      "sent_at": "2026-10-03T01:01:25.568948+00:00"
-    },
-    {
       "headline": "Claude Sonnet 5.5",
       "sent_at": "2026-10-03T05:37:34.073080+00:00"
     },
@@ -91,6 +35,30 @@
     {
       "headline": "Action:",
       "sent_at": "2026-10-03T05:37:34.073080+00:00"
+    },
+    {
+      "headline": "Claude Sonnet 5.5",
+      "sent_at": "2026-10-04T01:01:27.000302+00:00"
+    },
+    {
+      "headline": "ThinkingBox",
+      "sent_at": "2026-10-04T01:01:27.000302+00:00"
+    },
+    {
+      "headline": "Muse Gadgets",
+      "sent_at": "2026-10-04T01:01:27.000302+00:00"
+    },
+    {
+      "headline": "Sapien",
+      "sent_at": "2026-10-04T01:01:27.000302+00:00"
+    },
+    {
+      "headline": "Autoheal",
+      "sent_at": "2026-10-04T01:01:27.000302+00:00"
+    },
+    {
+      "headline": "Unveilr AI",
+      "sent_at": "2026-10-04T01:01:27.000302+00:00"
     }
   ]
 }
