@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Sonnet 5.5",
-      "sent_at": "2026-10-04T01:01:27.000302+00:00"
-    },
-    {
-      "headline": "ThinkingBox",
-      "sent_at": "2026-10-04T01:01:27.000302+00:00"
-    },
-    {
-      "headline": "Muse Gadgets",
-      "sent_at": "2026-10-04T01:01:27.000302+00:00"
-    },
-    {
-      "headline": "Sapien",
-      "sent_at": "2026-10-04T01:01:27.000302+00:00"
-    },
-    {
-      "headline": "Autoheal",
-      "sent_at": "2026-10-04T01:01:27.000302+00:00"
-    },
-    {
-      "headline": "Unveilr AI",
-      "sent_at": "2026-10-04T01:01:27.000302+00:00"
-    },
-    {
       "headline": "ThinkingBox",
       "sent_at": "2026-10-04T06:12:45.165353+00:00"
     },
@@ -63,6 +39,22 @@
     {
       "headline": "India AI Funding Round",
       "sent_at": "2026-10-05T01:01:23.684451+00:00"
+    },
+    {
+      "headline": "Claude Code",
+      "sent_at": "2026-10-05T06:05:28.400827+00:00"
+    },
+    {
+      "headline": "Claude Code API",
+      "sent_at": "2026-10-05T06:05:28.400827+00:00"
+    },
+    {
+      "headline": "Indian Startup Funding Round",
+      "sent_at": "2026-10-05T06:05:28.400827+00:00"
+    },
+    {
+      "headline": "Zenithon",
+      "sent_at": "2026-10-05T06:05:28.400827+00:00"
     }
   ]
 }
