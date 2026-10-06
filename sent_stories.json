@@ -1,46 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ThinkingBox",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Claude",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Gemini Argon",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Pragmata",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Splice",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Autoheal",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Unveilr AI",
-      "sent_at": "2026-10-04T06:12:45.165353+00:00"
-    },
-    {
-      "headline": "Claude Code",
-      "sent_at": "2026-10-05T01:01:23.684451+00:00"
-    },
-    {
-      "headline": "StarSkirmish",
-      "sent_at": "2026-10-05T01:01:23.684451+00:00"
-    },
-    {
-      "headline": "India AI Funding Round",
-      "sent_at": "2026-10-05T01:01:23.684451+00:00"
-    },
-    {
       "headline": "Claude Code",
       "sent_at": "2026-10-05T06:05:28.400827+00:00"
     },
@@ -55,6 +15,34 @@
     {
       "headline": "Zenithon",
       "sent_at": "2026-10-05T06:05:28.400827+00:00"
+    },
+    {
+      "headline": "textGrain watermarking",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "Gemini 4 Argon",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "crosswalk",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "Spira AI",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "India AI boom",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "QpiAI",
+      "sent_at": "2026-10-06T01:01:32.626771+00:00"
     }
   ]
 }
