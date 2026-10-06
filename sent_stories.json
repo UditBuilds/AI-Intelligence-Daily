@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Code",
-      "sent_at": "2026-10-05T06:05:28.400827+00:00"
-    },
-    {
-      "headline": "Claude Code API",
-      "sent_at": "2026-10-05T06:05:28.400827+00:00"
-    },
-    {
-      "headline": "Indian Startup Funding Round",
-      "sent_at": "2026-10-05T06:05:28.400827+00:00"
-    },
-    {
-      "headline": "Zenithon",
-      "sent_at": "2026-10-05T06:05:28.400827+00:00"
-    },
-    {
       "headline": "textGrain watermarking",
       "sent_at": "2026-10-06T01:01:32.626771+00:00"
     },
@@ -43,6 +27,38 @@
     {
       "headline": "QpiAI",
       "sent_at": "2026-10-06T01:01:32.626771+00:00"
+    },
+    {
+      "headline": "Falcon-Emirati",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "ChatGPT Visual Ads",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "Proxy Confidence",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "RemoveMacAI",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "OpenAI Text Watermarking",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "Schneider Electric",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
+    },
+    {
+      "headline": "India AI Funding Concentration",
+      "sent_at": "2026-10-06T06:45:14.587665+00:00"
     }
   ]
 }
