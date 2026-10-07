@@ -59,6 +59,30 @@
     {
       "headline": "PolicyLM‑1.7B",
       "sent_at": "2026-10-07T01:01:36.418013+00:00"
+    },
+    {
+      "headline": "Mistral Large 4",
+      "sent_at": "2026-10-07T06:20:46.839976+00:00"
+    },
+    {
+      "headline": "Falcon‑Emirati",
+      "sent_at": "2026-10-07T06:20:46.839976+00:00"
+    },
+    {
+      "headline": "PolicyLM‑1.7B",
+      "sent_at": "2026-10-07T06:20:46.839976+00:00"
+    },
+    {
+      "headline": "Hark Personal Assistant",
+      "sent_at": "2026-10-07T06:20:46.839976+00:00"
+    },
+    {
+      "headline": "Lambda",
+      "sent_at": "2026-10-07T06:20:46.839976+00:00"
+    },
+    {
+      "headline": "Deepseek",
+      "sent_at": "2026-10-07T06:20:46.839976+00:00"
     }
   ]
 }
