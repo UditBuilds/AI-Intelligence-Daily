@@ -1,58 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Mistral Large 4",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "Falcon‑Emirati",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "PolicyLM‑1.7B",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "Hark Personal Assistant",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "Lambda",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "CurvetAI",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "PolicyLM‑1.7B",
-      "sent_at": "2026-10-07T01:01:36.418013+00:00"
-    },
-    {
-      "headline": "Mistral Large 4",
-      "sent_at": "2026-10-07T06:20:46.839976+00:00"
-    },
-    {
-      "headline": "Falcon‑Emirati",
-      "sent_at": "2026-10-07T06:20:46.839976+00:00"
-    },
-    {
-      "headline": "PolicyLM‑1.7B",
-      "sent_at": "2026-10-07T06:20:46.839976+00:00"
-    },
-    {
-      "headline": "Hark Personal Assistant",
-      "sent_at": "2026-10-07T06:20:46.839976+00:00"
-    },
-    {
-      "headline": "Lambda",
-      "sent_at": "2026-10-07T06:20:46.839976+00:00"
-    },
-    {
-      "headline": "Deepseek",
-      "sent_at": "2026-10-07T06:20:46.839976+00:00"
-    },
-    {
       "headline": "Claude Haiku 5.5",
       "sent_at": "2026-10-08T01:01:29.853905+00:00"
     },
@@ -87,6 +35,34 @@
     {
       "headline": "Anthropic’s Claude Haiku 5.5",
       "sent_at": "2026-10-08T01:01:29.853905+00:00"
+    },
+    {
+      "headline": "GPT‑6 Intelligent UI",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "Radisson Plugin",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "College Planner",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "Adaptive Workflow Intelligence",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "Intelligent UI",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "Microsoft Copilot for Windows",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "DeepSeek",
+      "sent_at": "2026-10-08T06:31:59.069387+00:00"
     }
   ]
 }
