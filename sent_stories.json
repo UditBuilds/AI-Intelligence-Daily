@@ -1,42 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Haiku 5.5",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Claude 5.5 (third model)",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Radisson Hotel Plugin",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Proxy Confidence",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Reika",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Aura by Neural",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Desible.ai",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "DeepSeek",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
-      "headline": "Anthropic’s Claude Haiku 5.5",
-      "sent_at": "2026-10-08T01:01:29.853905+00:00"
-    },
-    {
       "headline": "GPT‑6 Intelligent UI",
       "sent_at": "2026-10-08T06:31:59.069387+00:00"
     },
@@ -63,6 +27,38 @@
     {
       "headline": "DeepSeek",
       "sent_at": "2026-10-08T06:31:59.069387+00:00"
+    },
+    {
+      "headline": "GPT-5.6",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "Claude Haiku 5.5",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "LegalOn Codex Optimizer",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "Adaptive Workflow Intelligence",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "Claude for Google Workspace",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "Semwright",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "Manus",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "Catalyst",
+      "sent_at": "2026-10-09T01:01:35.461021+00:00"
     }
   ]
 }
