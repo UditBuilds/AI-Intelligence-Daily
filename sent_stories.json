@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6 Intelligent UI",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
-      "headline": "Radisson Plugin",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
-      "headline": "College Planner",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
-      "headline": "Adaptive Workflow Intelligence",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
-      "headline": "Intelligent UI",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
-      "headline": "Microsoft Copilot for Windows",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
-      "headline": "DeepSeek",
-      "sent_at": "2026-10-08T06:31:59.069387+00:00"
-    },
-    {
       "headline": "GPT-5.6",
       "sent_at": "2026-10-09T01:01:35.461021+00:00"
     },
@@ -59,6 +31,42 @@
     {
       "headline": "Catalyst",
       "sent_at": "2026-10-09T01:01:35.461021+00:00"
+    },
+    {
+      "headline": "ChatGPT Work",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "GPT‑5.6",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "GPT‑Image‑2.5",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Codex",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Agent‑Controlled Forgetting for Tool‑Using Agents",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Anthropic OSS Scanner",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Google Gemini AI Agent",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Visorway",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Catalyst",
+      "sent_at": "2026-10-09T06:33:24.761394+00:00"
     }
   ]
 }
