@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-5.6",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "Claude Haiku 5.5",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "LegalOn Codex Optimizer",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "Adaptive Workflow Intelligence",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "Claude for Google Workspace",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "Semwright",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "Manus",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
-      "headline": "Catalyst",
-      "sent_at": "2026-10-09T01:01:35.461021+00:00"
-    },
-    {
       "headline": "ChatGPT Work",
       "sent_at": "2026-10-09T06:33:24.761394+00:00"
     },
@@ -67,6 +35,34 @@
     {
       "headline": "Catalyst",
       "sent_at": "2026-10-09T06:33:24.761394+00:00"
+    },
+    {
+      "headline": "Daybreak",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Sol",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
+    },
+    {
+      "headline": "Agent‑Controlled Forgetting for Tool‑Using Agents",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
+    },
+    {
+      "headline": "iwant",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
+    },
+    {
+      "headline": "OpenPilot",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
+    },
+    {
+      "headline": "Indian AI Startup Funding Surge",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
+    },
+    {
+      "headline": "CurvetAI",
+      "sent_at": "2026-10-10T01:01:37.518242+00:00"
     }
   ]
 }
