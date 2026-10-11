@@ -1,42 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Work",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "GPT‑5.6",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "GPT‑Image‑2.5",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "Codex",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "Agent‑Controlled Forgetting for Tool‑Using Agents",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "Anthropic OSS Scanner",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "Google Gemini AI Agent",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "Visorway",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
-      "headline": "Catalyst",
-      "sent_at": "2026-10-09T06:33:24.761394+00:00"
-    },
-    {
       "headline": "Daybreak",
       "sent_at": "2026-10-10T01:01:37.518242+00:00"
     },
@@ -87,6 +51,26 @@
     {
       "headline": "CurvetAI",
       "sent_at": "2026-10-10T06:16:08.313980+00:00"
+    },
+    {
+      "headline": "Gemini Agent",
+      "sent_at": "2026-10-11T01:01:35.321699+00:00"
+    },
+    {
+      "headline": "Maildun for Mac",
+      "sent_at": "2026-10-11T01:01:35.321699+00:00"
+    },
+    {
+      "headline": "Lune",
+      "sent_at": "2026-10-11T01:01:35.321699+00:00"
+    },
+    {
+      "headline": "Zach Yadegari’s startup",
+      "sent_at": "2026-10-11T01:01:35.321699+00:00"
+    },
+    {
+      "headline": "Navya Naveli Nanda",
+      "sent_at": "2026-10-11T01:01:35.321699+00:00"
     }
   ]
 }
