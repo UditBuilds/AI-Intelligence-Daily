@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Motion",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Grok 4.7",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Muse Wonder",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Know What You Don’t Know",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Kudos 3.0",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Honeyjar",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Amazon ↠ Decart",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
-      "headline": "Indian AI/D2C wave",
-      "sent_at": "2026-10-13T01:01:37.908356+00:00"
-    },
-    {
       "headline": "Muse Wonder",
       "sent_at": "2026-10-13T07:00:58.553933+00:00"
     },
@@ -87,6 +55,34 @@
     {
       "headline": "Ubitium",
       "sent_at": "2026-10-14T01:01:37.551838+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "Gemini 4 Argon",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "LFM2.5‑24B‑A2B",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "Shopify AI Agent API",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "Google AI Studio Vibe‑Code Launcher",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "Sarvam AI",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "RevRag AI",
+      "sent_at": "2026-10-14T05:15:46.952236+00:00"
     }
   ]
 }
