@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-6 Astra",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
-      "headline": "GPT-Image-2.5",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
-      "headline": "LFM2.5‑24B‑A2B",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
-      "headline": "The Drive AI",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
-      "headline": "Toby",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
-      "headline": "Sarvam AI",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
-      "headline": "Ubitium",
-      "sent_at": "2026-10-14T01:01:37.551838+00:00"
-    },
-    {
       "headline": "GPT‑6 Astra",
       "sent_at": "2026-10-14T05:15:46.952236+00:00"
     },
@@ -67,6 +39,38 @@
     {
       "headline": "HiRO‑ACEv2",
       "sent_at": "2026-10-15T01:01:37.199144+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "OpenAI Daybreak",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "HiRO‑ACEv2",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "ClawLoop: Self‑Improving Agents via Harness‑Native Training Loop",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "RoleFit",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "Square Kiosk",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "Parallel Loop",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+    },
+    {
+      "headline": "Harmonic Security",
+      "sent_at": "2026-10-15T05:02:36.895969+00:00"
     }
   ]
 }
