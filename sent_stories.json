@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Muse Wonder",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
-      "headline": "Muse Spark",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
-      "headline": "Anthropic distillation‑attack defence",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
-      "headline": "Honeyjar",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
-      "headline": "Blueprints AI",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
-      "headline": "Ex‑OpenAI researcher – $15 M Series A",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
-      "headline": "Amazon – $7 B Decart acquisition target",
-      "sent_at": "2026-10-13T07:00:58.553933+00:00"
-    },
-    {
       "headline": "GPT-6 Astra",
       "sent_at": "2026-10-14T01:01:37.551838+00:00"
     },
@@ -83,6 +55,18 @@
     {
       "headline": "RevRag AI",
       "sent_at": "2026-10-14T05:15:46.952236+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra",
+      "sent_at": "2026-10-15T01:01:37.199144+00:00"
+    },
+    {
+      "headline": "Daybreak",
+      "sent_at": "2026-10-15T01:01:37.199144+00:00"
+    },
+    {
+      "headline": "HiRO‑ACEv2",
+      "sent_at": "2026-10-15T01:01:37.199144+00:00"
     }
   ]
 }
