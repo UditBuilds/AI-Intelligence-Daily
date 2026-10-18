@@ -1,76 +1,36 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+      "headline": "Claude Fable 5.5",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
+    },
+    {
+      "headline": "Claude cracks 25‑year NSA number mystery",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     },
     {
       "headline": "Gemini 4 Argon",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     },
     {
-      "headline": "LFM2.5‑24B‑A2B",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+      "headline": "The World Won’t Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     },
     {
-      "headline": "Shopify AI Agent API",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+      "headline": "GPU Terminal",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     },
     {
-      "headline": "Google AI Studio Vibe‑Code Launcher",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+      "headline": "Salience",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     },
     {
-      "headline": "Sarvam AI",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
+      "headline": "Clueso",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     },
     {
-      "headline": "RevRag AI",
-      "sent_at": "2026-10-14T05:15:46.952236+00:00"
-    },
-    {
-      "headline": "GPT-6 Astra",
-      "sent_at": "2026-10-15T01:01:37.199144+00:00"
-    },
-    {
-      "headline": "Daybreak",
-      "sent_at": "2026-10-15T01:01:37.199144+00:00"
-    },
-    {
-      "headline": "HiRO‑ACEv2",
-      "sent_at": "2026-10-15T01:01:37.199144+00:00"
-    },
-    {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "OpenAI Daybreak",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "HiRO‑ACEv2",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "ClawLoop: Self‑Improving Agents via Harness‑Native Training Loop",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "RoleFit",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "Square Kiosk",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "Parallel Loop",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
-    },
-    {
-      "headline": "Harmonic Security",
-      "sent_at": "2026-10-15T05:02:36.895969+00:00"
+      "headline": "RapidCanvas",
+      "sent_at": "2026-10-18T01:01:36.867439+00:00"
     }
   ]
 }
