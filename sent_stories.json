@@ -1,64 +1,36 @@
 {
   "sent": [
     {
-      "headline": "Claude Fable 5.5",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "Claude cracks 25‑year NSA number mystery",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "Gemini 4 Argon",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "The World Won’t Wait: Evaluating and Teaching Agents Under a Live Clock",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "GPU Terminal",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "Salience",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "Clueso",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "RapidCanvas",
-      "sent_at": "2026-10-18T01:01:36.867439+00:00"
-    },
-    {
-      "headline": "Claude Fable 5.5",
-      "sent_at": "2026-10-18T04:59:56.167472+00:00"
-    },
-    {
-      "headline": "Gemini 4 Argon",
-      "sent_at": "2026-10-18T04:59:56.167472+00:00"
-    },
-    {
-      "headline": "Replit",
-      "sent_at": "2026-10-18T04:59:56.167472+00:00"
-    },
-    {
-      "headline": "Claude API",
-      "sent_at": "2026-10-18T04:59:56.167472+00:00"
-    },
-    {
-      "headline": "Clueso",
-      "sent_at": "2026-10-18T04:59:56.167472+00:00"
-    },
-    {
       "headline": "27 Indian startups",
       "sent_at": "2026-10-19T01:01:30.745454+00:00"
     },
     {
       "headline": "India AI startups",
       "sent_at": "2026-10-19T01:01:30.745454+00:00"
+    },
+    {
+      "headline": "Gemini 4 Argon",
+      "sent_at": "2026-10-19T05:07:51.542392+00:00"
+    },
+    {
+      "headline": "Timestral",
+      "sent_at": "2026-10-19T05:07:51.542392+00:00"
+    },
+    {
+      "headline": "Sparse Autoencoders Can Induce Local Geometry for Mitigating Catastrophic Forgetting",
+      "sent_at": "2026-10-19T05:07:51.542392+00:00"
+    },
+    {
+      "headline": "Gemini API",
+      "sent_at": "2026-10-19T05:07:51.542392+00:00"
+    },
+    {
+      "headline": "Timestral API",
+      "sent_at": "2026-10-19T05:07:51.542392+00:00"
+    },
+    {
+      "headline": "Indian Startup Funding Wave",
+      "sent_at": "2026-10-19T05:07:51.542392+00:00"
     }
   ]
 }
