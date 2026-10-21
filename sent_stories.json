@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude",
-      "sent_at": "2026-10-20T05:09:03.283865+00:00"
-    },
-    {
-      "headline": "Gemini 4 Argon",
-      "sent_at": "2026-10-20T05:09:03.283865+00:00"
-    },
-    {
-      "headline": "Timestral",
-      "sent_at": "2026-10-20T05:09:03.283865+00:00"
-    },
-    {
       "headline": "ChatGPT Work",
       "sent_at": "2026-10-21T01:01:33.364001+00:00"
     },
@@ -51,6 +39,30 @@
     {
       "headline": "Cache2LoRA",
       "sent_at": "2026-10-21T01:01:33.364001+00:00"
+    },
+    {
+      "headline": "ChatGPT Work",
+      "sent_at": "2026-10-21T05:11:25.588173+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Sol",
+      "sent_at": "2026-10-21T05:11:25.588173+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-10-21T05:11:25.588173+00:00"
+    },
+    {
+      "headline": "Navalia – verifiable task synthesis for cowork agents",
+      "sent_at": "2026-10-21T05:11:25.588173+00:00"
+    },
+    {
+      "headline": "ASI",
+      "sent_at": "2026-10-21T05:11:25.588173+00:00"
+    },
+    {
+      "headline": "Otter AI",
+      "sent_at": "2026-10-21T05:11:25.588173+00:00"
     }
   ]
 }
