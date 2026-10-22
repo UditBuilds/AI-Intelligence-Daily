@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Work",
-      "sent_at": "2026-10-21T05:11:25.588173+00:00"
-    },
-    {
-      "headline": "GPT‑6.1 Sol",
-      "sent_at": "2026-10-21T05:11:25.588173+00:00"
-    },
-    {
-      "headline": "Claude",
-      "sent_at": "2026-10-21T05:11:25.588173+00:00"
-    },
-    {
-      "headline": "Navalia – verifiable task synthesis for cowork agents",
-      "sent_at": "2026-10-21T05:11:25.588173+00:00"
-    },
-    {
-      "headline": "ASI",
-      "sent_at": "2026-10-21T05:11:25.588173+00:00"
-    },
-    {
-      "headline": "Otter AI",
-      "sent_at": "2026-10-21T05:11:25.588173+00:00"
-    },
-    {
       "headline": "ChatGPT Ads",
       "sent_at": "2026-10-22T01:01:38.669034+00:00"
     },
@@ -59,6 +35,38 @@
     {
       "headline": "ChatGPT Ads API",
       "sent_at": "2026-10-22T01:01:38.669034+00:00"
+    },
+    {
+      "headline": "ChatGPT Ads",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Claude Duet",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Granite Speech 5.0",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Fine‑Tuning Query Clarification for RAG",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Flint",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Pigment",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Legora",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "AuxoAI",
+      "sent_at": "2026-10-22T05:14:53.958230+00:00"
     }
   ]
 }
