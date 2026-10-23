@@ -2,42 +2,6 @@
   "sent": [
     {
       "headline": "ChatGPT Ads",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "OpenAI Models on Google Cloud",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "Patch the Planet",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "Navalia: Cowork Agents with Verifiable Task Synthesis",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "Koi",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "Agent Pets",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "Legora",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "AuxoAI",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "ChatGPT Ads API",
-      "sent_at": "2026-10-22T01:01:38.669034+00:00"
-    },
-    {
-      "headline": "ChatGPT Ads",
       "sent_at": "2026-10-22T05:14:53.958230+00:00"
     },
     {
@@ -67,6 +31,38 @@
     {
       "headline": "AuxoAI",
       "sent_at": "2026-10-22T05:14:53.958230+00:00"
+    },
+    {
+      "headline": "Decisions API",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "Claude Duet",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "OlmoEarth v1.3",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "Query Clarification for RAG",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "Canva Craft",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "CleanSlop",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "Karta AI",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
+    },
+    {
+      "headline": "DeepSeek",
+      "sent_at": "2026-10-23T01:01:39.128592+00:00"
     }
   ]
 }
