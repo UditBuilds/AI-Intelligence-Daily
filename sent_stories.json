@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Ads",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "Claude Duet",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "Granite Speech 5.0",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "Fine‑Tuning Query Clarification for RAG",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "Flint",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "Pigment",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "Legora",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
-      "headline": "AuxoAI",
-      "sent_at": "2026-10-22T05:14:53.958230+00:00"
-    },
-    {
       "headline": "Decisions API",
       "sent_at": "2026-10-23T01:01:39.128592+00:00"
     },
@@ -95,6 +63,38 @@
     {
       "headline": "DeepSeek",
       "sent_at": "2026-10-23T05:13:40.918093+00:00"
+    },
+    {
+      "headline": "Habitat",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "Claude Duet",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "Timestral",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "MCP vs CLI for AI Agents",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "Agent Hunt",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "ShogunAI",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "Legora",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "Sloosh.ai",
+      "sent_at": "2026-10-24T01:01:32.906233+00:00"
     }
   ]
 }
