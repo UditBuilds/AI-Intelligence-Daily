@@ -2,38 +2,6 @@
   "sent": [
     {
       "headline": "Decisions API",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "Claude Duet",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "OlmoEarth v1.3",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "Query Clarification for RAG",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "Canva Craft",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "CleanSlop",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "Karta AI",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "DeepSeek",
-      "sent_at": "2026-10-23T01:01:39.128592+00:00"
-    },
-    {
-      "headline": "Decisions API",
       "sent_at": "2026-10-23T05:13:40.918093+00:00"
     },
     {
@@ -95,6 +63,34 @@
     {
       "headline": "Sloosh.ai",
       "sent_at": "2026-10-24T01:01:32.906233+00:00"
+    },
+    {
+      "headline": "Habitat",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "Claude Duet",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "Gemini 4 Carbon",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "Dessa",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "World Proof‑of‑Human",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "Legora",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "Vectorial",
+      "sent_at": "2026-10-24T04:55:47.192114+00:00"
     }
   ]
 }
