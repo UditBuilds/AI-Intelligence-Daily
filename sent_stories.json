@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Habitat",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
-      "headline": "Claude Duet",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
-      "headline": "Gemini 4 Carbon",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
-      "headline": "Dessa",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
-      "headline": "World Proof‑of‑Human",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
-      "headline": "Legora",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
-      "headline": "Vectorial",
-      "sent_at": "2026-10-24T04:55:47.192114+00:00"
-    },
-    {
       "headline": "Claude Mythos 5",
       "sent_at": "2026-10-25T01:01:39.124368+00:00"
     },
@@ -43,6 +15,18 @@
     {
       "headline": "India AI Funding Round",
       "sent_at": "2026-10-25T01:01:39.124368+00:00"
+    },
+    {
+      "headline": "Claude Mythos 5",
+      "sent_at": "2026-10-25T05:08:31.923485+00:00"
+    },
+    {
+      "headline": "Flapping Airplanes",
+      "sent_at": "2026-10-25T05:08:31.923485+00:00"
+    },
+    {
+      "headline": "Blacksmith",
+      "sent_at": "2026-10-25T05:08:31.923485+00:00"
     }
   ]
 }
