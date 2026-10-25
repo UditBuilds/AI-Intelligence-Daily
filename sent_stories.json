@@ -1,70 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Decisions API",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "OlmoEarth v1.3",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "ThinkingBox",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "MCP vs CLI for AI Agents",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "Tetriz Engg Intelligence + Connectors",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "Agentic CleanSlop",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "Karta AI",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "DeepSeek",
-      "sent_at": "2026-10-23T05:13:40.918093+00:00"
-    },
-    {
-      "headline": "Habitat",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "Claude Duet",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "Timestral",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "MCP vs CLI for AI Agents",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "Agent Hunt",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "ShogunAI",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "Legora",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
-      "headline": "Sloosh.ai",
-      "sent_at": "2026-10-24T01:01:32.906233+00:00"
-    },
-    {
       "headline": "Habitat",
       "sent_at": "2026-10-24T04:55:47.192114+00:00"
     },
@@ -91,6 +27,22 @@
     {
       "headline": "Vectorial",
       "sent_at": "2026-10-24T04:55:47.192114+00:00"
+    },
+    {
+      "headline": "Claude Mythos 5",
+      "sent_at": "2026-10-25T01:01:39.124368+00:00"
+    },
+    {
+      "headline": "Block Voice Model",
+      "sent_at": "2026-10-25T01:01:39.124368+00:00"
+    },
+    {
+      "headline": "Blacksmith",
+      "sent_at": "2026-10-25T01:01:39.124368+00:00"
+    },
+    {
+      "headline": "India AI Funding Round",
+      "sent_at": "2026-10-25T01:01:39.124368+00:00"
     }
   ]
 }
