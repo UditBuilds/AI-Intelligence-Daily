@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Mythos 5",
-      "sent_at": "2026-10-25T01:01:39.124368+00:00"
-    },
-    {
-      "headline": "Block Voice Model",
-      "sent_at": "2026-10-25T01:01:39.124368+00:00"
-    },
-    {
-      "headline": "Blacksmith",
-      "sent_at": "2026-10-25T01:01:39.124368+00:00"
-    },
-    {
-      "headline": "India AI Funding Round",
-      "sent_at": "2026-10-25T01:01:39.124368+00:00"
-    },
-    {
-      "headline": "Claude Mythos 5",
-      "sent_at": "2026-10-25T05:08:31.923485+00:00"
-    },
-    {
-      "headline": "Flapping Airplanes",
-      "sent_at": "2026-10-25T05:08:31.923485+00:00"
-    },
-    {
-      "headline": "Blacksmith",
-      "sent_at": "2026-10-25T05:08:31.923485+00:00"
-    },
-    {
       "headline": "Claude",
       "sent_at": "2026-10-26T01:01:31.753107+00:00"
     },
@@ -47,6 +19,34 @@
     {
       "headline": "Indian Startup Funding Q3 2026",
       "sent_at": "2026-10-26T01:01:31.753107+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "Gemini 4 Flash",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "Mistral",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "Tradeoff‑Aware Territory Design",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "Grok",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "Ailytics",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "Paar Autonomy",
+      "sent_at": "2026-10-26T05:10:33.533158+00:00"
     }
   ]
 }
