@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
-      "headline": "Gemini 4 Flash",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
-      "headline": "Mistral",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
-      "headline": "Tradeoff‑Aware Territory Design",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
-      "headline": "Grok",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
-      "headline": "Ailytics",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
-      "headline": "Paar Autonomy",
-      "sent_at": "2026-10-26T05:10:33.533158+00:00"
-    },
-    {
       "headline": "GPT-6 Astra",
       "sent_at": "2026-10-27T01:01:35.358998+00:00"
     },
@@ -51,6 +23,34 @@
     {
       "headline": "India's VC Funding Remains Flat",
       "sent_at": "2026-10-27T01:01:35.358998+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Sol",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Terra",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
+    },
+    {
+      "headline": "Dots",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
+    },
+    {
+      "headline": "Codex Ultrafast",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
+    },
+    {
+      "headline": "AI‑startup funding round – $198.7 M",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
+    },
+    {
+      "headline": "India VC funding flat, deep‑tech focus",
+      "sent_at": "2026-10-27T05:26:42.221780+00:00"
     }
   ]
 }
