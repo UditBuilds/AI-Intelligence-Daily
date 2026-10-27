@@ -2,26 +2,6 @@
   "sent": [
     {
       "headline": "Claude",
-      "sent_at": "2026-10-26T01:01:31.753107+00:00"
-    },
-    {
-      "headline": "Gemini 4 Flash",
-      "sent_at": "2026-10-26T01:01:31.753107+00:00"
-    },
-    {
-      "headline": "Mythos",
-      "sent_at": "2026-10-26T01:01:31.753107+00:00"
-    },
-    {
-      "headline": "AgentGrid.io",
-      "sent_at": "2026-10-26T01:01:31.753107+00:00"
-    },
-    {
-      "headline": "Indian Startup Funding Q3 2026",
-      "sent_at": "2026-10-26T01:01:31.753107+00:00"
-    },
-    {
-      "headline": "Claude",
       "sent_at": "2026-10-26T05:10:33.533158+00:00"
     },
     {
@@ -47,6 +27,30 @@
     {
       "headline": "Paar Autonomy",
       "sent_at": "2026-10-26T05:10:33.533158+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra",
+      "sent_at": "2026-10-27T01:01:35.358998+00:00"
+    },
+    {
+      "headline": "GPT-6.1 Sol",
+      "sent_at": "2026-10-27T01:01:35.358998+00:00"
+    },
+    {
+      "headline": "Fanatics Shop the Look",
+      "sent_at": "2026-10-27T01:01:35.358998+00:00"
+    },
+    {
+      "headline": "AllModels",
+      "sent_at": "2026-10-27T01:01:35.358998+00:00"
+    },
+    {
+      "headline": "AI startups raise $198.7M",
+      "sent_at": "2026-10-27T01:01:35.358998+00:00"
+    },
+    {
+      "headline": "India's VC Funding Remains Flat",
+      "sent_at": "2026-10-27T01:01:35.358998+00:00"
     }
   ]
 }
