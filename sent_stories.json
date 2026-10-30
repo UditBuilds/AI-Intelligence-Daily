@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Nemotron 3.5 Transcribe",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "Granary v2",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "Claude for Legal Artifacts",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "Counting the Bandages",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "OpenLLM",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "WebAI by Opera",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "QwikBuild",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
-      "headline": "Indic AI Startups",
-      "sent_at": "2026-10-29T01:01:38.531693+00:00"
-    },
-    {
       "headline": "Mistral Large 4 (Le Chonk)",
       "sent_at": "2026-10-30T01:01:35.812285+00:00"
     },
@@ -67,6 +35,30 @@
     {
       "headline": "Google Gemini’s file‑editing API",
       "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Mistral Large 4 (Le Chonk)",
+      "sent_at": "2026-10-30T06:18:02.744931+00:00"
+    },
+    {
+      "headline": "Granite Switch 4.1.1",
+      "sent_at": "2026-10-30T06:18:02.744931+00:00"
+    },
+    {
+      "headline": "Google Gemini File Editor",
+      "sent_at": "2026-10-30T06:18:02.744931+00:00"
+    },
+    {
+      "headline": "Pixel AI Detector",
+      "sent_at": "2026-10-30T06:18:02.744931+00:00"
+    },
+    {
+      "headline": "Sarvam AI",
+      "sent_at": "2026-10-30T06:18:02.744931+00:00"
+    },
+    {
+      "headline": "Tensrai",
+      "sent_at": "2026-10-30T06:18:02.744931+00:00"
     }
   ]
 }
