@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-6 Astra",
-      "sent_at": "2026-10-28T06:07:47.840326+00:00"
-    },
-    {
-      "headline": "LFM3",
-      "sent_at": "2026-10-28T06:07:47.840326+00:00"
-    },
-    {
-      "headline": "Prompt Policies for Text‑to‑Image",
-      "sent_at": "2026-10-28T06:07:47.840326+00:00"
-    },
-    {
       "headline": "Nemotron 3.5 Transcribe",
       "sent_at": "2026-10-29T01:01:38.531693+00:00"
     },
@@ -43,6 +31,42 @@
     {
       "headline": "Indic AI Startups",
       "sent_at": "2026-10-29T01:01:38.531693+00:00"
+    },
+    {
+      "headline": "Mistral Large 4 (Le Chonk)",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Granite Switch 4.1.1",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Gemini Spark",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Google Gemini File Editing",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Claude Legal Workspace",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Sarvam AI",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Tensrai",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Mistral Large 4 (Le Chonk)",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
+    },
+    {
+      "headline": "Google Gemini’s file‑editing API",
+      "sent_at": "2026-10-30T01:01:35.812285+00:00"
     }
   ]
 }
