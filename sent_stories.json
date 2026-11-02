@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Duet",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "Large 4",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "Gemini 3.5 Pro",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "WebAnything",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "AC Bridge",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "Godwit",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "Simplismart & Live2.ai",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
-      "headline": "CopperPilot",
-      "sent_at": "2026-11-01T01:01:24.772010+00:00"
-    },
-    {
       "headline": "GPT-6.1 Astra",
       "sent_at": "2026-11-01T06:40:59.796113+00:00"
     },
@@ -79,6 +47,26 @@
     {
       "headline": "Fractile",
       "sent_at": "2026-11-02T01:01:23.502729+00:00"
+    },
+    {
+      "headline": "GPT‑6.1 Astra",
+      "sent_at": "2026-11-02T06:39:39.156145+00:00"
+    },
+    {
+      "headline": "Claude Mythos 5.5",
+      "sent_at": "2026-11-02T06:39:39.156145+00:00"
+    },
+    {
+      "headline": "The First Few Tokens Matter",
+      "sent_at": "2026-11-02T06:39:39.156145+00:00"
+    },
+    {
+      "headline": "Indian startup funding dip",
+      "sent_at": "2026-11-02T06:39:39.156145+00:00"
+    },
+    {
+      "headline": "29 Indian startups raise $171 M (Oct 26‑31)",
+      "sent_at": "2026-11-02T06:39:39.156145+00:00"
     }
   ]
 }
