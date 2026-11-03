@@ -1,54 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-6.1 Astra",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Claude Duet",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Gemini 4 Argon",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Muse Charm",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Claude Cowork",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Lumaril",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Indian AI Funding Week",
-      "sent_at": "2026-11-01T06:40:59.796113+00:00"
-    },
-    {
-      "headline": "Claude Mythos 5.5",
-      "sent_at": "2026-11-02T01:01:23.502729+00:00"
-    },
-    {
-      "headline": "Gemini 4",
-      "sent_at": "2026-11-02T01:01:23.502729+00:00"
-    },
-    {
-      "headline": "DeepSeek Coding Agent",
-      "sent_at": "2026-11-02T01:01:23.502729+00:00"
-    },
-    {
-      "headline": "Israeli AI & Cybersecurity Startups",
-      "sent_at": "2026-11-02T01:01:23.502729+00:00"
-    },
-    {
-      "headline": "Fractile",
-      "sent_at": "2026-11-02T01:01:23.502729+00:00"
-    },
-    {
       "headline": "GPT‑6.1 Astra",
       "sent_at": "2026-11-02T06:39:39.156145+00:00"
     },
@@ -67,6 +19,38 @@
     {
       "headline": "29 Indian startups raise $171 M (Oct 26‑31)",
       "sent_at": "2026-11-02T06:39:39.156145+00:00"
+    },
+    {
+      "headline": "GPT‑6.2 Astra",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "LifeVal",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "Pando",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "The First Few Tokens Matter: Understanding Chain‑of‑Thought Controllability",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "Trajectory",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "42AI",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "Indian Startup Funding",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
+    },
+    {
+      "headline": "ADNOC + OpenAI Frontier",
+      "sent_at": "2026-11-03T01:01:31.285209+00:00"
     }
   ]
 }
