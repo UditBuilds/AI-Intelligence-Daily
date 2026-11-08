@@ -1,70 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6 Cyber",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "Codex",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "Gemini Omni 1.2 Flash",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "BlockLock",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "Perplexity Teammates",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "ElevenLabs ↔ SoundCloud",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "Thinking Machines Lab",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "AI coworker startup",
-      "sent_at": "2026-11-06T07:14:06.332541+00:00"
-    },
-    {
-      "headline": "GPT‑6 Cyber",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "Inkling 2 Small",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "ToyBlocks",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "Muse AI (Free)",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "Alexa Shopping via Text (Free)",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "OpenAI",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
-      "headline": "Palo Alto Networks – Clutch acquisition talks",
-      "sent_at": "2026-11-07T01:01:29.040755+00:00"
-    },
-    {
       "headline": "GPT‑6 Cyber",
       "sent_at": "2026-11-07T06:27:28.095890+00:00"
     },
@@ -91,6 +27,18 @@
     {
       "headline": "URobotics",
       "sent_at": "2026-11-07T06:27:28.095890+00:00"
+    },
+    {
+      "headline": "GPT‑6 Cyber",
+      "sent_at": "2026-11-08T01:01:31.070010+00:00"
+    },
+    {
+      "headline": "Trace",
+      "sent_at": "2026-11-08T01:01:31.070010+00:00"
+    },
+    {
+      "headline": "OpenAI",
+      "sent_at": "2026-11-08T01:01:31.070010+00:00"
     }
   ]
 }
