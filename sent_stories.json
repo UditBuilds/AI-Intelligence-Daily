@@ -23,6 +23,30 @@
     {
       "headline": "OpenAI",
       "sent_at": "2026-11-08T06:33:46.867687+00:00"
+    },
+    {
+      "headline": "GPT‑6 Cyber",
+      "sent_at": "2026-11-09T01:01:29.298500+00:00"
+    },
+    {
+      "headline": "Claude Code",
+      "sent_at": "2026-11-09T01:01:29.298500+00:00"
+    },
+    {
+      "headline": "Suno",
+      "sent_at": "2026-11-09T01:01:29.298500+00:00"
+    },
+    {
+      "headline": "Claude Code Review",
+      "sent_at": "2026-11-09T01:01:29.298500+00:00"
+    },
+    {
+      "headline": "Traversal",
+      "sent_at": "2026-11-09T01:01:29.298500+00:00"
+    },
+    {
+      "headline": "Weekly Notable Funding",
+      "sent_at": "2026-11-09T01:01:29.298500+00:00"
     }
   ]
 }
