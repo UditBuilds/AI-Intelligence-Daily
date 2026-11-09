@@ -1,30 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6 Cyber",
-      "sent_at": "2026-11-08T01:01:31.070010+00:00"
-    },
-    {
-      "headline": "Trace",
-      "sent_at": "2026-11-08T01:01:31.070010+00:00"
-    },
-    {
-      "headline": "OpenAI",
-      "sent_at": "2026-11-08T01:01:31.070010+00:00"
-    },
-    {
-      "headline": "GPT‑6 Cyber",
-      "sent_at": "2026-11-08T06:33:46.867687+00:00"
-    },
-    {
-      "headline": "NYT Cooking AI Assistant",
-      "sent_at": "2026-11-08T06:33:46.867687+00:00"
-    },
-    {
-      "headline": "OpenAI",
-      "sent_at": "2026-11-08T06:33:46.867687+00:00"
-    },
-    {
       "headline": "GPT‑6 Cyber",
       "sent_at": "2026-11-09T01:01:29.298500+00:00"
     },
@@ -47,6 +23,30 @@
     {
       "headline": "Weekly Notable Funding",
       "sent_at": "2026-11-09T01:01:29.298500+00:00"
+    },
+    {
+      "headline": "GPT‑6 Cyber",
+      "sent_at": "2026-11-09T07:03:08.602708+00:00"
+    },
+    {
+      "headline": "Claude Code",
+      "sent_at": "2026-11-09T07:03:08.602708+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-11-09T07:03:08.602708+00:00"
+    },
+    {
+      "headline": "LLM‑Based Feature Extraction for Multi‑Criteria Inventory Classification",
+      "sent_at": "2026-11-09T07:03:08.602708+00:00"
+    },
+    {
+      "headline": "Traversal",
+      "sent_at": "2026-11-09T07:03:08.602708+00:00"
+    },
+    {
+      "headline": "Weekly Notable Startup Funding Report",
+      "sent_at": "2026-11-09T07:03:08.602708+00:00"
     }
   ]
 }
