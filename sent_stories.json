@@ -2,30 +2,6 @@
   "sent": [
     {
       "headline": "GPT‑6 Cyber",
-      "sent_at": "2026-11-09T01:01:29.298500+00:00"
-    },
-    {
-      "headline": "Claude Code",
-      "sent_at": "2026-11-09T01:01:29.298500+00:00"
-    },
-    {
-      "headline": "Suno",
-      "sent_at": "2026-11-09T01:01:29.298500+00:00"
-    },
-    {
-      "headline": "Claude Code Review",
-      "sent_at": "2026-11-09T01:01:29.298500+00:00"
-    },
-    {
-      "headline": "Traversal",
-      "sent_at": "2026-11-09T01:01:29.298500+00:00"
-    },
-    {
-      "headline": "Weekly Notable Funding",
-      "sent_at": "2026-11-09T01:01:29.298500+00:00"
-    },
-    {
-      "headline": "GPT‑6 Cyber",
       "sent_at": "2026-11-09T07:03:08.602708+00:00"
     },
     {
@@ -47,6 +23,38 @@
     {
       "headline": "Weekly Notable Startup Funding Report",
       "sent_at": "2026-11-09T07:03:08.602708+00:00"
+    },
+    {
+      "headline": "ChatGPT Enterprise",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "CodeRabbit",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "Kuken Search API",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "ChainFlow: Few‑Step Latent Flow Matching for Speculative Decoding",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "Claude Fable",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "Apple Intelligence Usage Packs",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "Astral",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
+    },
+    {
+      "headline": "Snapp",
+      "sent_at": "2026-11-10T01:01:33.334800+00:00"
     }
   ]
 }
