@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Enterprise",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
-      "headline": "CodeRabbit",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
-      "headline": "Kuken Industries Search",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
-      "headline": "LLM‑Based Feature Extraction for Multi‑Criteria Inventory Classification",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
-      "headline": "Effect Builder",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
-      "headline": "Indian Startup Funding Surge",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
-      "headline": "Vanta × Pillar",
-      "sent_at": "2026-11-10T07:39:24.171113+00:00"
-    },
-    {
       "headline": "Gemini 4 Carbon",
       "sent_at": "2026-11-11T06:58:23.320079+00:00"
     },
@@ -55,6 +27,38 @@
     {
       "headline": "Mercor",
       "sent_at": "2026-11-11T06:58:23.320079+00:00"
+    },
+    {
+      "headline": "Gemini Decisions API",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "Tabletop",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "BotPsy",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "RigSpark",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "Tabletop",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "Bigger cheques, fewer winners in India’s AI boom",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
+    },
+    {
+      "headline": "Automation startup Rox raises $100 M at $1.3 B valuation",
+      "sent_at": "2026-11-12T01:01:31.775014+00:00"
     }
   ]
 }
