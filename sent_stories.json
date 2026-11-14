@@ -1,62 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Gemini Decisions API",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "Claude Fable 5.2",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "AlphaGenome 2",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "Tabletop",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "AlphaGenome 2",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "Rox",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "Fractile",
-      "sent_at": "2026-11-12T07:35:19.900611+00:00"
-    },
-    {
-      "headline": "Gemini 4 Hydrogen",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
-      "headline": "Claude for Manufacturing",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
-      "headline": "Crossfade",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
-      "headline": "Offstage Cloud",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
-      "headline": "LangChain",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
-      "headline": "mistEO",
-      "sent_at": "2026-11-13T01:01:28.696385+00:00"
-    },
-    {
       "headline": "Gemini 4 Hydrogen",
       "sent_at": "2026-11-13T07:05:41.078849+00:00"
     },
@@ -83,6 +27,30 @@
     {
       "headline": "mistEO",
       "sent_at": "2026-11-13T07:05:41.078849+00:00"
+    },
+    {
+      "headline": "ChatGPT Wallet",
+      "sent_at": "2026-11-14T01:01:42.000818+00:00"
+    },
+    {
+      "headline": "Shield",
+      "sent_at": "2026-11-14T01:01:42.000818+00:00"
+    },
+    {
+      "headline": "llama.cpp v1.0.0",
+      "sent_at": "2026-11-14T01:01:42.000818+00:00"
+    },
+    {
+      "headline": "Claude Meetings",
+      "sent_at": "2026-11-14T01:01:42.000818+00:00"
+    },
+    {
+      "headline": "LangChain",
+      "sent_at": "2026-11-14T01:01:42.000818+00:00"
+    },
+    {
+      "headline": "Kutlerri.ai",
+      "sent_at": "2026-11-14T01:01:42.000818+00:00"
     }
   ]
 }
