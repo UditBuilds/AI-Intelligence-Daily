@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Wallet",
-      "sent_at": "2026-11-15T07:01:27.352813+00:00"
-    },
-    {
-      "headline": "Claude Opus 5.5",
-      "sent_at": "2026-11-15T07:01:27.352813+00:00"
-    },
-    {
-      "headline": "Gemini 4 Hydrogen",
-      "sent_at": "2026-11-15T07:01:27.352813+00:00"
-    },
-    {
-      "headline": "StitchStudio",
-      "sent_at": "2026-11-15T07:01:27.352813+00:00"
-    },
-    {
       "headline": "GPT-6 Astra",
       "sent_at": "2026-11-16T01:01:33.372612+00:00"
     },
@@ -39,6 +23,34 @@
     {
       "headline": "Bharat Semi",
       "sent_at": "2026-11-16T01:01:33.372612+00:00"
+    },
+    {
+      "headline": "GPT‑6 Astra",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
+    },
+    {
+      "headline": "Claude Fable 5.2",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
+    },
+    {
+      "headline": "LoRAWeaver",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
+    },
+    {
+      "headline": "Apple AI Health Study App",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
+    },
+    {
+      "headline": "Bharat Semi AI Sensor Kit",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
+    },
+    {
+      "headline": "Bharat Semi",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
+    },
+    {
+      "headline": "Arborum Labs",
+      "sent_at": "2026-11-16T07:08:38.516907+00:00"
     }
   ]
 }
