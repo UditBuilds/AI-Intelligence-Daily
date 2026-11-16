@@ -1,22 +1,6 @@
 {
   "sent": [
     {
-      "headline": "ChatGPT Wallet",
-      "sent_at": "2026-11-15T01:01:28.400292+00:00"
-    },
-    {
-      "headline": "Gemini 4 Hydrogen",
-      "sent_at": "2026-11-15T01:01:28.400292+00:00"
-    },
-    {
-      "headline": "mistEO",
-      "sent_at": "2026-11-15T01:01:28.400292+00:00"
-    },
-    {
-      "headline": "Nvidia India bets",
-      "sent_at": "2026-11-15T01:01:28.400292+00:00"
-    },
-    {
       "headline": "ChatGPT Wallet",
       "sent_at": "2026-11-15T07:01:27.352813+00:00"
     },
@@ -31,6 +15,30 @@
     {
       "headline": "StitchStudio",
       "sent_at": "2026-11-15T07:01:27.352813+00:00"
+    },
+    {
+      "headline": "GPT-6 Astra",
+      "sent_at": "2026-11-16T01:01:33.372612+00:00"
+    },
+    {
+      "headline": "Claude Fable 5.2",
+      "sent_at": "2026-11-16T01:01:33.372612+00:00"
+    },
+    {
+      "headline": "Claude Code",
+      "sent_at": "2026-11-16T01:01:33.372612+00:00"
+    },
+    {
+      "headline": "Canvas",
+      "sent_at": "2026-11-16T01:01:33.372612+00:00"
+    },
+    {
+      "headline": "Perit Marketplace",
+      "sent_at": "2026-11-16T01:01:33.372612+00:00"
+    },
+    {
+      "headline": "Bharat Semi",
+      "sent_at": "2026-11-16T01:01:33.372612+00:00"
     }
   ]
 }
