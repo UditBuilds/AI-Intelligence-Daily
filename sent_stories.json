@@ -1,58 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT-6 Astra",
-      "sent_at": "2026-11-16T01:01:33.372612+00:00"
-    },
-    {
-      "headline": "Claude Fable 5.2",
-      "sent_at": "2026-11-16T01:01:33.372612+00:00"
-    },
-    {
-      "headline": "Claude Code",
-      "sent_at": "2026-11-16T01:01:33.372612+00:00"
-    },
-    {
-      "headline": "Canvas",
-      "sent_at": "2026-11-16T01:01:33.372612+00:00"
-    },
-    {
-      "headline": "Perit Marketplace",
-      "sent_at": "2026-11-16T01:01:33.372612+00:00"
-    },
-    {
-      "headline": "Bharat Semi",
-      "sent_at": "2026-11-16T01:01:33.372612+00:00"
-    },
-    {
-      "headline": "GPT‑6 Astra",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
-      "headline": "Claude Fable 5.2",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
-      "headline": "LoRAWeaver",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
-      "headline": "Apple AI Health Study App",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
-      "headline": "Bharat Semi AI Sensor Kit",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
-      "headline": "Bharat Semi",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
-      "headline": "Arborum Labs",
-      "sent_at": "2026-11-16T07:08:38.516907+00:00"
-    },
-    {
       "headline": "ChatGPT for Academic Researchers",
       "sent_at": "2026-11-17T01:01:33.150770+00:00"
     },
@@ -83,6 +31,38 @@
     {
       "headline": "Avatar Growth Capital AI Fund",
       "sent_at": "2026-11-17T01:01:33.150770+00:00"
+    },
+    {
+      "headline": "ChatGPT for Academic Researchers",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "OpenAI Image Classifier & CSAM Warnings",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "Revolut + OpenAI Codex",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "Hallucination Detectors on Small, Quantized On‑Device LLMs",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "Agents API by Recall.ai",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "BASE Studio",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "CountAI",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
+    },
+    {
+      "headline": "Dreamteam",
+      "sent_at": "2026-11-17T08:20:43.884277+00:00"
     }
   ]
 }
