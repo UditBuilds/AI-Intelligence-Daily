@@ -2,38 +2,6 @@
   "sent": [
     {
       "headline": "ChatGPT Enterprise",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "Gemini App",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "DaisyRose‑27B",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "Language Models Can Rewrite Their Own Weights",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "AssemblyAI‑STT‑3.7",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "worldinmotion",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "Humyn Labs",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "Bengaluru AI Funding Report",
-      "sent_at": "2026-11-19T01:01:50.144172+00:00"
-    },
-    {
-      "headline": "ChatGPT Enterprise",
       "sent_at": "2026-11-19T07:47:53.724376+00:00"
     },
     {
@@ -99,6 +67,26 @@
     {
       "headline": "Gemini Tool Retrieval API",
       "sent_at": "2026-11-20T01:01:38.861715+00:00"
+    },
+    {
+      "headline": "Gemini Tool Retrieval",
+      "sent_at": "2026-11-20T07:39:38.852344+00:00"
+    },
+    {
+      "headline": "Claude Code “Code Mode”",
+      "sent_at": "2026-11-20T07:39:38.852344+00:00"
+    },
+    {
+      "headline": "Claude Connector for Infobip",
+      "sent_at": "2026-11-20T07:39:38.852344+00:00"
+    },
+    {
+      "headline": "DSFlow",
+      "sent_at": "2026-11-20T07:39:38.852344+00:00"
+    },
+    {
+      "headline": "Google Gemini for macOS (Computer Use)",
+      "sent_at": "2026-11-20T07:39:38.852344+00:00"
     }
   ]
 }
