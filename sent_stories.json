@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "GPT‑6",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "Gemini",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "Shirudo",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "Beyond Static Charts: Benchmarking Interactive Chart‑to‑Code Generation for MLLMs",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "MyClaw 3.0",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "Falcon",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "Ex‑Infosys Exec’s Enterprise AI Startup",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
-      "headline": "Matters.AI",
-      "sent_at": "2026-11-25T09:00:08.874620+00:00"
-    },
-    {
       "headline": "Nemotron 3.5 Parse",
       "sent_at": "2026-11-26T08:46:59.221432+00:00"
     },
@@ -63,6 +31,34 @@
     {
       "headline": "Lakshya Aerotech",
       "sent_at": "2026-11-26T08:46:59.221432+00:00"
+    },
+    {
+      "headline": "Claude Duet",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "Nemotron 3.5 Parse",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "General‑Purpose Decision Models for AI Configuration Tuning",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "Superframes",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "Pax by Pydantic",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "XEBO.ai",
+      "sent_at": "2026-11-27T01:01:32.528345+00:00"
     }
   ]
 }
