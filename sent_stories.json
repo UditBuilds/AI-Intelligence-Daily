@@ -1,38 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Nemotron 3.5 Parse",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "Claude Duet",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "Claude Opus 5.6",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "Partial Routing: Trace‑Tuned Delegation for Resource‑Efficient Agentic Workflows",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "Remora",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "Ottante",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "ElevenLabs",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
-      "headline": "Lakshya Aerotech",
-      "sent_at": "2026-11-26T08:46:59.221432+00:00"
-    },
-    {
       "headline": "Claude Duet",
       "sent_at": "2026-11-27T01:01:32.528345+00:00"
     },
@@ -59,6 +27,38 @@
     {
       "headline": "XEBO.ai",
       "sent_at": "2026-11-27T01:01:32.528345+00:00"
+    },
+    {
+      "headline": "GPT‑6.2",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "Claude",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "Mistral Large 4",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "Partial Routing: Trace‑Tuned Delegation for Resource‑Efficient Agentic Workflows",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "Onset",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "Contral",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "VU Venture Partners",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "JioAstro",
+      "sent_at": "2026-11-27T08:58:13.497857+00:00"
     }
   ]
 }
