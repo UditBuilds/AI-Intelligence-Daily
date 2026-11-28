@@ -1,34 +1,6 @@
 {
   "sent": [
     {
-      "headline": "Claude Duet",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
-      "headline": "Claude",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
-      "headline": "Nemotron 3.5 Parse",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
-      "headline": "General‑Purpose Decision Models for AI Configuration Tuning",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
-      "headline": "Superframes",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
-      "headline": "Pax by Pydantic",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
-      "headline": "XEBO.ai",
-      "sent_at": "2026-11-27T01:01:32.528345+00:00"
-    },
-    {
       "headline": "GPT‑6.2",
       "sent_at": "2026-11-27T08:58:13.497857+00:00"
     },
@@ -59,6 +31,34 @@
     {
       "headline": "JioAstro",
       "sent_at": "2026-11-27T08:58:13.497857+00:00"
+    },
+    {
+      "headline": "Claude (Unreleased)",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
+    },
+    {
+      "headline": "Mistral Open‑Weight Models",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
+    },
+    {
+      "headline": "Context Scaling",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
+    },
+    {
+      "headline": "Depost AI",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
+    },
+    {
+      "headline": "Woomool",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
+    },
+    {
+      "headline": "VU Venture Partners",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
+    },
+    {
+      "headline": "M (Dunzo founder’s startup)",
+      "sent_at": "2026-11-28T01:01:36.026606+00:00"
     }
   ]
 }
